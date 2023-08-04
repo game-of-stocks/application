@@ -1,0 +1,1985 @@
+Date,Company,Ticker,Close_Price,Industry,Sector
+2/1/2023,Apple,AAPL,145.43,Computer Manufacturing,Technology
+2/2/2023,Apple,AAPL,150.82,Computer Manufacturing,Technology
+2/3/2023,Apple,AAPL,154.5,Computer Manufacturing,Technology
+2/6/2023,Apple,AAPL,151.73,Computer Manufacturing,Technology
+2/7/2023,Apple,AAPL,154.65,Computer Manufacturing,Technology
+2/8/2023,Apple,AAPL,151.92,Computer Manufacturing,Technology
+2/9/2023,Apple,AAPL,150.87,Computer Manufacturing,Technology
+2/10/2023,Apple,AAPL,151.01,Computer Manufacturing,Technology
+2/13/2023,Apple,AAPL,153.85,Computer Manufacturing,Technology
+2/14/2023,Apple,AAPL,153.2,Computer Manufacturing,Technology
+2/15/2023,Apple,AAPL,155.33,Computer Manufacturing,Technology
+2/16/2023,Apple,AAPL,153.71,Computer Manufacturing,Technology
+2/17/2023,Apple,AAPL,152.55,Computer Manufacturing,Technology
+2/21/2023,Apple,AAPL,148.48,Computer Manufacturing,Technology
+2/22/2023,Apple,AAPL,148.91,Computer Manufacturing,Technology
+2/23/2023,Apple,AAPL,149.4,Computer Manufacturing,Technology
+2/24/2023,Apple,AAPL,146.71,Computer Manufacturing,Technology
+2/27/2023,Apple,AAPL,147.92,Computer Manufacturing,Technology
+2/28/2023,Apple,AAPL,147.41,Computer Manufacturing,Technology
+3/1/2023,Apple,AAPL,145.31,Computer Manufacturing,Technology
+3/2/2023,Apple,AAPL,145.91,Computer Manufacturing,Technology
+3/3/2023,Apple,AAPL,151.03,Computer Manufacturing,Technology
+3/6/2023,Apple,AAPL,153.83,Computer Manufacturing,Technology
+3/7/2023,Apple,AAPL,151.6,Computer Manufacturing,Technology
+3/8/2023,Apple,AAPL,152.87,Computer Manufacturing,Technology
+3/9/2023,Apple,AAPL,150.59,Computer Manufacturing,Technology
+3/10/2023,Apple,AAPL,148.5,Computer Manufacturing,Technology
+3/13/2023,Apple,AAPL,150.47,Computer Manufacturing,Technology
+3/14/2023,Apple,AAPL,152.59,Computer Manufacturing,Technology
+3/15/2023,Apple,AAPL,152.99,Computer Manufacturing,Technology
+3/16/2023,Apple,AAPL,155.85,Computer Manufacturing,Technology
+3/17/2023,Apple,AAPL,155,Computer Manufacturing,Technology
+3/20/2023,Apple,AAPL,157.4,Computer Manufacturing,Technology
+3/21/2023,Apple,AAPL,159.28,Computer Manufacturing,Technology
+3/22/2023,Apple,AAPL,157.83,Computer Manufacturing,Technology
+3/23/2023,Apple,AAPL,158.93,Computer Manufacturing,Technology
+3/24/2023,Apple,AAPL,160.25,Computer Manufacturing,Technology
+3/27/2023,Apple,AAPL,158.28,Computer Manufacturing,Technology
+3/28/2023,Apple,AAPL,157.65,Computer Manufacturing,Technology
+3/29/2023,Apple,AAPL,160.77,Computer Manufacturing,Technology
+3/30/2023,Apple,AAPL,162.36,Computer Manufacturing,Technology
+3/31/2023,Apple,AAPL,164.9,Computer Manufacturing,Technology
+4/3/2023,Apple,AAPL,166.17,Computer Manufacturing,Technology
+4/4/2023,Apple,AAPL,165.63,Computer Manufacturing,Technology
+4/5/2023,Apple,AAPL,163.76,Computer Manufacturing,Technology
+4/6/2023,Apple,AAPL,164.66,Computer Manufacturing,Technology
+4/10/2023,Apple,AAPL,162.03,Computer Manufacturing,Technology
+4/11/2023,Apple,AAPL,160.8,Computer Manufacturing,Technology
+4/12/2023,Apple,AAPL,160.1,Computer Manufacturing,Technology
+4/13/2023,Apple,AAPL,165.56,Computer Manufacturing,Technology
+4/14/2023,Apple,AAPL,165.21,Computer Manufacturing,Technology
+4/17/2023,Apple,AAPL,165.23,Computer Manufacturing,Technology
+4/18/2023,Apple,AAPL,166.47,Computer Manufacturing,Technology
+4/19/2023,Apple,AAPL,167.63,Computer Manufacturing,Technology
+4/20/2023,Apple,AAPL,166.65,Computer Manufacturing,Technology
+4/21/2023,Apple,AAPL,165.02,Computer Manufacturing,Technology
+4/24/2023,Apple,AAPL,165.33,Computer Manufacturing,Technology
+4/25/2023,Apple,AAPL,163.77,Computer Manufacturing,Technology
+4/26/2023,Apple,AAPL,163.76,Computer Manufacturing,Technology
+4/27/2023,Apple,AAPL,168.41,Computer Manufacturing,Technology
+4/28/2023,Apple,AAPL,169.68,Computer Manufacturing,Technology
+5/1/2023,Apple,AAPL,169.59,Computer Manufacturing,Technology
+5/2/2023,Apple,AAPL,168.54,Computer Manufacturing,Technology
+5/3/2023,Apple,AAPL,167.45,Computer Manufacturing,Technology
+5/4/2023,Apple,AAPL,165.79,Computer Manufacturing,Technology
+5/5/2023,Apple,AAPL,173.57,Computer Manufacturing,Technology
+5/8/2023,Apple,AAPL,173.5,Computer Manufacturing,Technology
+5/9/2023,Apple,AAPL,171.77,Computer Manufacturing,Technology
+5/10/2023,Apple,AAPL,173.56,Computer Manufacturing,Technology
+5/11/2023,Apple,AAPL,173.75,Computer Manufacturing,Technology
+5/12/2023,Apple,AAPL,172.57,Computer Manufacturing,Technology
+5/15/2023,Apple,AAPL,172.07,Computer Manufacturing,Technology
+5/16/2023,Apple,AAPL,172.07,Computer Manufacturing,Technology
+5/17/2023,Apple,AAPL,172.69,Computer Manufacturing,Technology
+5/18/2023,Apple,AAPL,175.05,Computer Manufacturing,Technology
+5/19/2023,Apple,AAPL,175.16,Computer Manufacturing,Technology
+5/22/2023,Apple,AAPL,174.2,Computer Manufacturing,Technology
+5/23/2023,Apple,AAPL,171.56,Computer Manufacturing,Technology
+5/24/2023,Apple,AAPL,171.84,Computer Manufacturing,Technology
+5/25/2023,Apple,AAPL,172.99,Computer Manufacturing,Technology
+5/26/2023,Apple,AAPL,175.43,Computer Manufacturing,Technology
+5/30/2023,Apple,AAPL,177.3,Computer Manufacturing,Technology
+5/31/2023,Apple,AAPL,177.25,Computer Manufacturing,Technology
+6/1/2023,Apple,AAPL,180.09,Computer Manufacturing,Technology
+6/2/2023,Apple,AAPL,180.95,Computer Manufacturing,Technology
+6/5/2023,Apple,AAPL,179.58,Computer Manufacturing,Technology
+6/6/2023,Apple,AAPL,179.21,Computer Manufacturing,Technology
+6/7/2023,Apple,AAPL,177.82,Computer Manufacturing,Technology
+6/8/2023,Apple,AAPL,180.57,Computer Manufacturing,Technology
+6/9/2023,Apple,AAPL,180.96,Computer Manufacturing,Technology
+6/12/2023,Apple,AAPL,183.79,Computer Manufacturing,Technology
+6/13/2023,Apple,AAPL,183.31,Computer Manufacturing,Technology
+6/14/2023,Apple,AAPL,183.95,Computer Manufacturing,Technology
+6/15/2023,Apple,AAPL,186.01,Computer Manufacturing,Technology
+6/16/2023,Apple,AAPL,184.92,Computer Manufacturing,Technology
+6/20/2023,Apple,AAPL,185.01,Computer Manufacturing,Technology
+6/21/2023,Apple,AAPL,183.96,Computer Manufacturing,Technology
+6/22/2023,Apple,AAPL,187,Computer Manufacturing,Technology
+6/23/2023,Apple,AAPL,186.68,Computer Manufacturing,Technology
+6/26/2023,Apple,AAPL,185.27,Computer Manufacturing,Technology
+6/27/2023,Apple,AAPL,188.06,Computer Manufacturing,Technology
+6/28/2023,Apple,AAPL,189.25,Computer Manufacturing,Technology
+6/29/2023,Apple,AAPL,189.59,Computer Manufacturing,Technology
+6/30/2023,Apple,AAPL,193.97,Computer Manufacturing,Technology
+7/3/2023,Apple,AAPL,192.46,Computer Manufacturing,Technology
+7/5/2023,Apple,AAPL,191.33,Computer Manufacturing,Technology
+7/6/2023,Apple,AAPL,191.81,Computer Manufacturing,Technology
+7/7/2023,Apple,AAPL,190.68,Computer Manufacturing,Technology
+7/10/2023,Apple,AAPL,188.61,Computer Manufacturing,Technology
+7/11/2023,Apple,AAPL,188.08,Computer Manufacturing,Technology
+7/12/2023,Apple,AAPL,189.77,Computer Manufacturing,Technology
+7/13/2023,Apple,AAPL,190.54,Computer Manufacturing,Technology
+7/14/2023,Apple,AAPL,190.69,Computer Manufacturing,Technology
+7/17/2023,Apple,AAPL,193.99,Computer Manufacturing,Technology
+7/18/2023,Apple,AAPL,193.73,Computer Manufacturing,Technology
+7/19/2023,Apple,AAPL,195.1,Computer Manufacturing,Technology
+7/20/2023,Apple,AAPL,193.13,Computer Manufacturing,Technology
+7/21/2023,Apple,AAPL,191.94,Computer Manufacturing,Technology
+7/24/2023,Apple,AAPL,192.75,Computer Manufacturing,Technology
+7/25/2023,Apple,AAPL,193.62,Computer Manufacturing,Technology
+7/26/2023,Apple,AAPL,194.5,Computer Manufacturing,Technology
+7/27/2023,Apple,AAPL,193.22,Computer Manufacturing,Technology
+7/28/2023,Apple,AAPL,195.83,Computer Manufacturing,Technology
+7/31/2023,Apple,AAPL,196.45,Computer Manufacturing,Technology
+2/1/2023,Microsoft,MSFT,252.75,Computer Software: Prepackaged Software,Technology
+2/2/2023,Microsoft,MSFT,264.6,Computer Software: Prepackaged Software,Technology
+2/3/2023,Microsoft,MSFT,258.35,Computer Software: Prepackaged Software,Technology
+2/6/2023,Microsoft,MSFT,256.77,Computer Software: Prepackaged Software,Technology
+2/7/2023,Microsoft,MSFT,267.56,Computer Software: Prepackaged Software,Technology
+2/8/2023,Microsoft,MSFT,266.73,Computer Software: Prepackaged Software,Technology
+2/9/2023,Microsoft,MSFT,263.62,Computer Software: Prepackaged Software,Technology
+2/10/2023,Microsoft,MSFT,263.1,Computer Software: Prepackaged Software,Technology
+2/13/2023,Microsoft,MSFT,271.32,Computer Software: Prepackaged Software,Technology
+2/14/2023,Microsoft,MSFT,272.17,Computer Software: Prepackaged Software,Technology
+2/15/2023,Microsoft,MSFT,269.32,Computer Software: Prepackaged Software,Technology
+2/16/2023,Microsoft,MSFT,262.15,Computer Software: Prepackaged Software,Technology
+2/17/2023,Microsoft,MSFT,258.06,Computer Software: Prepackaged Software,Technology
+2/21/2023,Microsoft,MSFT,252.67,Computer Software: Prepackaged Software,Technology
+2/22/2023,Microsoft,MSFT,251.51,Computer Software: Prepackaged Software,Technology
+2/23/2023,Microsoft,MSFT,254.77,Computer Software: Prepackaged Software,Technology
+2/24/2023,Microsoft,MSFT,249.22,Computer Software: Prepackaged Software,Technology
+2/27/2023,Microsoft,MSFT,250.16,Computer Software: Prepackaged Software,Technology
+2/28/2023,Microsoft,MSFT,249.42,Computer Software: Prepackaged Software,Technology
+3/1/2023,Microsoft,MSFT,246.27,Computer Software: Prepackaged Software,Technology
+3/2/2023,Microsoft,MSFT,251.11,Computer Software: Prepackaged Software,Technology
+3/3/2023,Microsoft,MSFT,255.29,Computer Software: Prepackaged Software,Technology
+3/6/2023,Microsoft,MSFT,256.87,Computer Software: Prepackaged Software,Technology
+3/7/2023,Microsoft,MSFT,254.15,Computer Software: Prepackaged Software,Technology
+3/8/2023,Microsoft,MSFT,253.7,Computer Software: Prepackaged Software,Technology
+3/9/2023,Microsoft,MSFT,252.32,Computer Software: Prepackaged Software,Technology
+3/10/2023,Microsoft,MSFT,248.59,Computer Software: Prepackaged Software,Technology
+3/13/2023,Microsoft,MSFT,253.92,Computer Software: Prepackaged Software,Technology
+3/14/2023,Microsoft,MSFT,260.79,Computer Software: Prepackaged Software,Technology
+3/15/2023,Microsoft,MSFT,265.44,Computer Software: Prepackaged Software,Technology
+3/16/2023,Microsoft,MSFT,276.2,Computer Software: Prepackaged Software,Technology
+3/17/2023,Microsoft,MSFT,279.43,Computer Software: Prepackaged Software,Technology
+3/20/2023,Microsoft,MSFT,272.23,Computer Software: Prepackaged Software,Technology
+3/21/2023,Microsoft,MSFT,273.78,Computer Software: Prepackaged Software,Technology
+3/22/2023,Microsoft,MSFT,272.29,Computer Software: Prepackaged Software,Technology
+3/23/2023,Microsoft,MSFT,277.66,Computer Software: Prepackaged Software,Technology
+3/24/2023,Microsoft,MSFT,280.57,Computer Software: Prepackaged Software,Technology
+3/27/2023,Microsoft,MSFT,276.38,Computer Software: Prepackaged Software,Technology
+3/28/2023,Microsoft,MSFT,275.23,Computer Software: Prepackaged Software,Technology
+3/29/2023,Microsoft,MSFT,280.51,Computer Software: Prepackaged Software,Technology
+3/30/2023,Microsoft,MSFT,284.05,Computer Software: Prepackaged Software,Technology
+3/31/2023,Microsoft,MSFT,288.3,Computer Software: Prepackaged Software,Technology
+4/3/2023,Microsoft,MSFT,287.23,Computer Software: Prepackaged Software,Technology
+4/4/2023,Microsoft,MSFT,287.18,Computer Software: Prepackaged Software,Technology
+4/5/2023,Microsoft,MSFT,284.34,Computer Software: Prepackaged Software,Technology
+4/6/2023,Microsoft,MSFT,291.6,Computer Software: Prepackaged Software,Technology
+4/10/2023,Microsoft,MSFT,289.39,Computer Software: Prepackaged Software,Technology
+4/11/2023,Microsoft,MSFT,282.83,Computer Software: Prepackaged Software,Technology
+4/12/2023,Microsoft,MSFT,283.49,Computer Software: Prepackaged Software,Technology
+4/13/2023,Microsoft,MSFT,289.84,Computer Software: Prepackaged Software,Technology
+4/14/2023,Microsoft,MSFT,286.14,Computer Software: Prepackaged Software,Technology
+4/17/2023,Microsoft,MSFT,288.8,Computer Software: Prepackaged Software,Technology
+4/18/2023,Microsoft,MSFT,288.37,Computer Software: Prepackaged Software,Technology
+4/19/2023,Microsoft,MSFT,288.45,Computer Software: Prepackaged Software,Technology
+4/20/2023,Microsoft,MSFT,286.11,Computer Software: Prepackaged Software,Technology
+4/21/2023,Microsoft,MSFT,285.76,Computer Software: Prepackaged Software,Technology
+4/24/2023,Microsoft,MSFT,281.77,Computer Software: Prepackaged Software,Technology
+4/25/2023,Microsoft,MSFT,275.42,Computer Software: Prepackaged Software,Technology
+4/26/2023,Microsoft,MSFT,295.37,Computer Software: Prepackaged Software,Technology
+4/27/2023,Microsoft,MSFT,304.83,Computer Software: Prepackaged Software,Technology
+4/28/2023,Microsoft,MSFT,307.26,Computer Software: Prepackaged Software,Technology
+5/1/2023,Microsoft,MSFT,305.56,Computer Software: Prepackaged Software,Technology
+5/2/2023,Microsoft,MSFT,305.41,Computer Software: Prepackaged Software,Technology
+5/3/2023,Microsoft,MSFT,304.4,Computer Software: Prepackaged Software,Technology
+5/4/2023,Microsoft,MSFT,305.41,Computer Software: Prepackaged Software,Technology
+5/5/2023,Microsoft,MSFT,310.65,Computer Software: Prepackaged Software,Technology
+5/8/2023,Microsoft,MSFT,308.65,Computer Software: Prepackaged Software,Technology
+5/9/2023,Microsoft,MSFT,307,Computer Software: Prepackaged Software,Technology
+5/10/2023,Microsoft,MSFT,312.31,Computer Software: Prepackaged Software,Technology
+5/11/2023,Microsoft,MSFT,310.11,Computer Software: Prepackaged Software,Technology
+5/12/2023,Microsoft,MSFT,308.97,Computer Software: Prepackaged Software,Technology
+5/15/2023,Microsoft,MSFT,309.46,Computer Software: Prepackaged Software,Technology
+5/16/2023,Microsoft,MSFT,311.74,Computer Software: Prepackaged Software,Technology
+5/17/2023,Microsoft,MSFT,314,Computer Software: Prepackaged Software,Technology
+5/18/2023,Microsoft,MSFT,318.52,Computer Software: Prepackaged Software,Technology
+5/19/2023,Microsoft,MSFT,318.34,Computer Software: Prepackaged Software,Technology
+5/22/2023,Microsoft,MSFT,321.18,Computer Software: Prepackaged Software,Technology
+5/23/2023,Microsoft,MSFT,315.26,Computer Software: Prepackaged Software,Technology
+5/24/2023,Microsoft,MSFT,313.85,Computer Software: Prepackaged Software,Technology
+5/25/2023,Microsoft,MSFT,325.92,Computer Software: Prepackaged Software,Technology
+5/26/2023,Microsoft,MSFT,332.89,Computer Software: Prepackaged Software,Technology
+5/30/2023,Microsoft,MSFT,331.21,Computer Software: Prepackaged Software,Technology
+5/31/2023,Microsoft,MSFT,328.39,Computer Software: Prepackaged Software,Technology
+6/1/2023,Microsoft,MSFT,332.58,Computer Software: Prepackaged Software,Technology
+6/2/2023,Microsoft,MSFT,335.4,Computer Software: Prepackaged Software,Technology
+6/5/2023,Microsoft,MSFT,335.94,Computer Software: Prepackaged Software,Technology
+6/6/2023,Microsoft,MSFT,333.68,Computer Software: Prepackaged Software,Technology
+6/7/2023,Microsoft,MSFT,323.38,Computer Software: Prepackaged Software,Technology
+6/8/2023,Microsoft,MSFT,325.26,Computer Software: Prepackaged Software,Technology
+6/9/2023,Microsoft,MSFT,326.79,Computer Software: Prepackaged Software,Technology
+6/12/2023,Microsoft,MSFT,331.85,Computer Software: Prepackaged Software,Technology
+6/13/2023,Microsoft,MSFT,334.29,Computer Software: Prepackaged Software,Technology
+6/14/2023,Microsoft,MSFT,337.34,Computer Software: Prepackaged Software,Technology
+6/15/2023,Microsoft,MSFT,348.1,Computer Software: Prepackaged Software,Technology
+6/16/2023,Microsoft,MSFT,342.33,Computer Software: Prepackaged Software,Technology
+6/20/2023,Microsoft,MSFT,338.05,Computer Software: Prepackaged Software,Technology
+6/21/2023,Microsoft,MSFT,333.56,Computer Software: Prepackaged Software,Technology
+6/22/2023,Microsoft,MSFT,339.71,Computer Software: Prepackaged Software,Technology
+6/23/2023,Microsoft,MSFT,335.02,Computer Software: Prepackaged Software,Technology
+6/26/2023,Microsoft,MSFT,328.6,Computer Software: Prepackaged Software,Technology
+6/27/2023,Microsoft,MSFT,334.57,Computer Software: Prepackaged Software,Technology
+6/28/2023,Microsoft,MSFT,335.85,Computer Software: Prepackaged Software,Technology
+6/29/2023,Microsoft,MSFT,335.05,Computer Software: Prepackaged Software,Technology
+6/30/2023,Microsoft,MSFT,340.54,Computer Software: Prepackaged Software,Technology
+7/3/2023,Microsoft,MSFT,337.99,Computer Software: Prepackaged Software,Technology
+7/5/2023,Microsoft,MSFT,338.15,Computer Software: Prepackaged Software,Technology
+7/6/2023,Microsoft,MSFT,341.27,Computer Software: Prepackaged Software,Technology
+7/7/2023,Microsoft,MSFT,337.22,Computer Software: Prepackaged Software,Technology
+7/10/2023,Microsoft,MSFT,331.83,Computer Software: Prepackaged Software,Technology
+7/11/2023,Microsoft,MSFT,332.47,Computer Software: Prepackaged Software,Technology
+7/12/2023,Microsoft,MSFT,337.2,Computer Software: Prepackaged Software,Technology
+7/13/2023,Microsoft,MSFT,342.66,Computer Software: Prepackaged Software,Technology
+7/14/2023,Microsoft,MSFT,345.24,Computer Software: Prepackaged Software,Technology
+7/17/2023,Microsoft,MSFT,345.73,Computer Software: Prepackaged Software,Technology
+7/18/2023,Microsoft,MSFT,359.49,Computer Software: Prepackaged Software,Technology
+7/19/2023,Microsoft,MSFT,355.08,Computer Software: Prepackaged Software,Technology
+7/20/2023,Microsoft,MSFT,346.87,Computer Software: Prepackaged Software,Technology
+7/21/2023,Microsoft,MSFT,343.77,Computer Software: Prepackaged Software,Technology
+7/24/2023,Microsoft,MSFT,345.11,Computer Software: Prepackaged Software,Technology
+7/25/2023,Microsoft,MSFT,350.98,Computer Software: Prepackaged Software,Technology
+7/26/2023,Microsoft,MSFT,337.77,Computer Software: Prepackaged Software,Technology
+7/27/2023,Microsoft,MSFT,330.72,Computer Software: Prepackaged Software,Technology
+7/28/2023,Microsoft,MSFT,338.37,Computer Software: Prepackaged Software,Technology
+7/31/2023,Microsoft,MSFT,335.92,Computer Software: Prepackaged Software,Technology
+2/1/2023,Amazon,AMZN,105.15,Catalog/Specialty Distribution,Consumer Discretionary
+2/2/2023,Amazon,AMZN,112.91,Catalog/Specialty Distribution,Consumer Discretionary
+2/3/2023,Amazon,AMZN,103.39,Catalog/Specialty Distribution,Consumer Discretionary
+2/6/2023,Amazon,AMZN,102.18,Catalog/Specialty Distribution,Consumer Discretionary
+2/7/2023,Amazon,AMZN,102.11,Catalog/Specialty Distribution,Consumer Discretionary
+2/8/2023,Amazon,AMZN,100.05,Catalog/Specialty Distribution,Consumer Discretionary
+2/9/2023,Amazon,AMZN,98.24,Catalog/Specialty Distribution,Consumer Discretionary
+2/10/2023,Amazon,AMZN,97.61,Catalog/Specialty Distribution,Consumer Discretionary
+2/13/2023,Amazon,AMZN,99.54,Catalog/Specialty Distribution,Consumer Discretionary
+2/14/2023,Amazon,AMZN,99.7,Catalog/Specialty Distribution,Consumer Discretionary
+2/15/2023,Amazon,AMZN,101.16,Catalog/Specialty Distribution,Consumer Discretionary
+2/16/2023,Amazon,AMZN,98.15,Catalog/Specialty Distribution,Consumer Discretionary
+2/17/2023,Amazon,AMZN,97.2,Catalog/Specialty Distribution,Consumer Discretionary
+2/21/2023,Amazon,AMZN,94.58,Catalog/Specialty Distribution,Consumer Discretionary
+2/22/2023,Amazon,AMZN,95.79,Catalog/Specialty Distribution,Consumer Discretionary
+2/23/2023,Amazon,AMZN,95.82,Catalog/Specialty Distribution,Consumer Discretionary
+2/24/2023,Amazon,AMZN,93.5,Catalog/Specialty Distribution,Consumer Discretionary
+2/27/2023,Amazon,AMZN,93.76,Catalog/Specialty Distribution,Consumer Discretionary
+2/28/2023,Amazon,AMZN,94.23,Catalog/Specialty Distribution,Consumer Discretionary
+3/1/2023,Amazon,AMZN,92.17,Catalog/Specialty Distribution,Consumer Discretionary
+3/2/2023,Amazon,AMZN,92.13,Catalog/Specialty Distribution,Consumer Discretionary
+3/3/2023,Amazon,AMZN,94.9,Catalog/Specialty Distribution,Consumer Discretionary
+3/6/2023,Amazon,AMZN,93.75,Catalog/Specialty Distribution,Consumer Discretionary
+3/7/2023,Amazon,AMZN,93.55,Catalog/Specialty Distribution,Consumer Discretionary
+3/8/2023,Amazon,AMZN,93.92,Catalog/Specialty Distribution,Consumer Discretionary
+3/9/2023,Amazon,AMZN,92.25,Catalog/Specialty Distribution,Consumer Discretionary
+3/10/2023,Amazon,AMZN,90.73,Catalog/Specialty Distribution,Consumer Discretionary
+3/13/2023,Amazon,AMZN,92.43,Catalog/Specialty Distribution,Consumer Discretionary
+3/14/2023,Amazon,AMZN,94.88,Catalog/Specialty Distribution,Consumer Discretionary
+3/15/2023,Amazon,AMZN,96.2,Catalog/Specialty Distribution,Consumer Discretionary
+3/16/2023,Amazon,AMZN,100.04,Catalog/Specialty Distribution,Consumer Discretionary
+3/17/2023,Amazon,AMZN,98.95,Catalog/Specialty Distribution,Consumer Discretionary
+3/20/2023,Amazon,AMZN,97.71,Catalog/Specialty Distribution,Consumer Discretionary
+3/21/2023,Amazon,AMZN,100.61,Catalog/Specialty Distribution,Consumer Discretionary
+3/22/2023,Amazon,AMZN,98.7,Catalog/Specialty Distribution,Consumer Discretionary
+3/23/2023,Amazon,AMZN,98.71,Catalog/Specialty Distribution,Consumer Discretionary
+3/24/2023,Amazon,AMZN,98.13,Catalog/Specialty Distribution,Consumer Discretionary
+3/27/2023,Amazon,AMZN,98.04,Catalog/Specialty Distribution,Consumer Discretionary
+3/28/2023,Amazon,AMZN,97.24,Catalog/Specialty Distribution,Consumer Discretionary
+3/29/2023,Amazon,AMZN,100.25,Catalog/Specialty Distribution,Consumer Discretionary
+3/30/2023,Amazon,AMZN,102,Catalog/Specialty Distribution,Consumer Discretionary
+3/31/2023,Amazon,AMZN,103.29,Catalog/Specialty Distribution,Consumer Discretionary
+4/3/2023,Amazon,AMZN,102.41,Catalog/Specialty Distribution,Consumer Discretionary
+4/4/2023,Amazon,AMZN,103.95,Catalog/Specialty Distribution,Consumer Discretionary
+4/5/2023,Amazon,AMZN,101.1,Catalog/Specialty Distribution,Consumer Discretionary
+4/6/2023,Amazon,AMZN,102.06,Catalog/Specialty Distribution,Consumer Discretionary
+4/10/2023,Amazon,AMZN,102.17,Catalog/Specialty Distribution,Consumer Discretionary
+4/11/2023,Amazon,AMZN,99.92,Catalog/Specialty Distribution,Consumer Discretionary
+4/12/2023,Amazon,AMZN,97.83,Catalog/Specialty Distribution,Consumer Discretionary
+4/13/2023,Amazon,AMZN,102.4,Catalog/Specialty Distribution,Consumer Discretionary
+4/14/2023,Amazon,AMZN,102.51,Catalog/Specialty Distribution,Consumer Discretionary
+4/17/2023,Amazon,AMZN,102.74,Catalog/Specialty Distribution,Consumer Discretionary
+4/18/2023,Amazon,AMZN,102.3,Catalog/Specialty Distribution,Consumer Discretionary
+4/19/2023,Amazon,AMZN,104.3,Catalog/Specialty Distribution,Consumer Discretionary
+4/20/2023,Amazon,AMZN,103.81,Catalog/Specialty Distribution,Consumer Discretionary
+4/21/2023,Amazon,AMZN,106.96,Catalog/Specialty Distribution,Consumer Discretionary
+4/24/2023,Amazon,AMZN,106.21,Catalog/Specialty Distribution,Consumer Discretionary
+4/25/2023,Amazon,AMZN,102.57,Catalog/Specialty Distribution,Consumer Discretionary
+4/26/2023,Amazon,AMZN,104.98,Catalog/Specialty Distribution,Consumer Discretionary
+4/27/2023,Amazon,AMZN,109.82,Catalog/Specialty Distribution,Consumer Discretionary
+4/28/2023,Amazon,AMZN,105.45,Catalog/Specialty Distribution,Consumer Discretionary
+5/1/2023,Amazon,AMZN,102.05,Catalog/Specialty Distribution,Consumer Discretionary
+5/2/2023,Amazon,AMZN,103.63,Catalog/Specialty Distribution,Consumer Discretionary
+5/3/2023,Amazon,AMZN,103.65,Catalog/Specialty Distribution,Consumer Discretionary
+5/4/2023,Amazon,AMZN,104,Catalog/Specialty Distribution,Consumer Discretionary
+5/5/2023,Amazon,AMZN,105.66,Catalog/Specialty Distribution,Consumer Discretionary
+5/8/2023,Amazon,AMZN,105.83,Catalog/Specialty Distribution,Consumer Discretionary
+5/9/2023,Amazon,AMZN,106.62,Catalog/Specialty Distribution,Consumer Discretionary
+5/10/2023,Amazon,AMZN,110.19,Catalog/Specialty Distribution,Consumer Discretionary
+5/11/2023,Amazon,AMZN,112.18,Catalog/Specialty Distribution,Consumer Discretionary
+5/12/2023,Amazon,AMZN,110.26,Catalog/Specialty Distribution,Consumer Discretionary
+5/15/2023,Amazon,AMZN,111.2,Catalog/Specialty Distribution,Consumer Discretionary
+5/16/2023,Amazon,AMZN,113.4,Catalog/Specialty Distribution,Consumer Discretionary
+5/17/2023,Amazon,AMZN,115.5,Catalog/Specialty Distribution,Consumer Discretionary
+5/18/2023,Amazon,AMZN,118.15,Catalog/Specialty Distribution,Consumer Discretionary
+5/19/2023,Amazon,AMZN,116.25,Catalog/Specialty Distribution,Consumer Discretionary
+5/22/2023,Amazon,AMZN,115.01,Catalog/Specialty Distribution,Consumer Discretionary
+5/23/2023,Amazon,AMZN,114.99,Catalog/Specialty Distribution,Consumer Discretionary
+5/24/2023,Amazon,AMZN,116.75,Catalog/Specialty Distribution,Consumer Discretionary
+5/25/2023,Amazon,AMZN,115,Catalog/Specialty Distribution,Consumer Discretionary
+5/26/2023,Amazon,AMZN,120.11,Catalog/Specialty Distribution,Consumer Discretionary
+5/30/2023,Amazon,AMZN,121.66,Catalog/Specialty Distribution,Consumer Discretionary
+5/31/2023,Amazon,AMZN,120.58,Catalog/Specialty Distribution,Consumer Discretionary
+6/1/2023,Amazon,AMZN,122.77,Catalog/Specialty Distribution,Consumer Discretionary
+6/2/2023,Amazon,AMZN,124.25,Catalog/Specialty Distribution,Consumer Discretionary
+6/5/2023,Amazon,AMZN,125.3,Catalog/Specialty Distribution,Consumer Discretionary
+6/6/2023,Amazon,AMZN,126.61,Catalog/Specialty Distribution,Consumer Discretionary
+6/7/2023,Amazon,AMZN,121.23,Catalog/Specialty Distribution,Consumer Discretionary
+6/8/2023,Amazon,AMZN,124.25,Catalog/Specialty Distribution,Consumer Discretionary
+6/9/2023,Amazon,AMZN,123.43,Catalog/Specialty Distribution,Consumer Discretionary
+6/12/2023,Amazon,AMZN,126.57,Catalog/Specialty Distribution,Consumer Discretionary
+6/13/2023,Amazon,AMZN,126.66,Catalog/Specialty Distribution,Consumer Discretionary
+6/14/2023,Amazon,AMZN,126.42,Catalog/Specialty Distribution,Consumer Discretionary
+6/15/2023,Amazon,AMZN,127.11,Catalog/Specialty Distribution,Consumer Discretionary
+6/16/2023,Amazon,AMZN,125.49,Catalog/Specialty Distribution,Consumer Discretionary
+6/20/2023,Amazon,AMZN,125.78,Catalog/Specialty Distribution,Consumer Discretionary
+6/21/2023,Amazon,AMZN,124.83,Catalog/Specialty Distribution,Consumer Discretionary
+6/22/2023,Amazon,AMZN,130.15,Catalog/Specialty Distribution,Consumer Discretionary
+6/23/2023,Amazon,AMZN,129.33,Catalog/Specialty Distribution,Consumer Discretionary
+6/26/2023,Amazon,AMZN,127.33,Catalog/Specialty Distribution,Consumer Discretionary
+6/27/2023,Amazon,AMZN,129.18,Catalog/Specialty Distribution,Consumer Discretionary
+6/28/2023,Amazon,AMZN,129.04,Catalog/Specialty Distribution,Consumer Discretionary
+6/29/2023,Amazon,AMZN,127.9,Catalog/Specialty Distribution,Consumer Discretionary
+6/30/2023,Amazon,AMZN,130.36,Catalog/Specialty Distribution,Consumer Discretionary
+7/3/2023,Amazon,AMZN,130.22,Catalog/Specialty Distribution,Consumer Discretionary
+7/5/2023,Amazon,AMZN,130.38,Catalog/Specialty Distribution,Consumer Discretionary
+7/6/2023,Amazon,AMZN,128.36,Catalog/Specialty Distribution,Consumer Discretionary
+7/7/2023,Amazon,AMZN,129.78,Catalog/Specialty Distribution,Consumer Discretionary
+7/10/2023,Amazon,AMZN,127.13,Catalog/Specialty Distribution,Consumer Discretionary
+7/11/2023,Amazon,AMZN,128.78,Catalog/Specialty Distribution,Consumer Discretionary
+7/12/2023,Amazon,AMZN,130.8,Catalog/Specialty Distribution,Consumer Discretionary
+7/13/2023,Amazon,AMZN,134.3,Catalog/Specialty Distribution,Consumer Discretionary
+7/14/2023,Amazon,AMZN,134.68,Catalog/Specialty Distribution,Consumer Discretionary
+7/17/2023,Amazon,AMZN,133.56,Catalog/Specialty Distribution,Consumer Discretionary
+7/18/2023,Amazon,AMZN,132.83,Catalog/Specialty Distribution,Consumer Discretionary
+7/19/2023,Amazon,AMZN,135.36,Catalog/Specialty Distribution,Consumer Discretionary
+7/20/2023,Amazon,AMZN,129.96,Catalog/Specialty Distribution,Consumer Discretionary
+7/21/2023,Amazon,AMZN,130,Catalog/Specialty Distribution,Consumer Discretionary
+7/24/2023,Amazon,AMZN,128.8,Catalog/Specialty Distribution,Consumer Discretionary
+7/25/2023,Amazon,AMZN,129.13,Catalog/Specialty Distribution,Consumer Discretionary
+7/26/2023,Amazon,AMZN,128.15,Catalog/Specialty Distribution,Consumer Discretionary
+7/27/2023,Amazon,AMZN,128.25,Catalog/Specialty Distribution,Consumer Discretionary
+7/28/2023,Amazon,AMZN,132.21,Catalog/Specialty Distribution,Consumer Discretionary
+7/31/2023,Amazon,AMZN,133.68,Catalog/Specialty Distribution,Consumer Discretionary
+2/1/2023,Nvidia,NVDA,209.43,Semiconductors,Technology
+2/2/2023,Nvidia,NVDA,217.09,Semiconductors,Technology
+2/3/2023,Nvidia,NVDA,211,Semiconductors,Technology
+2/6/2023,Nvidia,NVDA,210.89,Semiconductors,Technology
+2/7/2023,Nvidia,NVDA,221.73,Semiconductors,Technology
+2/8/2023,Nvidia,NVDA,222.05,Semiconductors,Technology
+2/9/2023,Nvidia,NVDA,223.37,Semiconductors,Technology
+2/10/2023,Nvidia,NVDA,212.65,Semiconductors,Technology
+2/13/2023,Nvidia,NVDA,217.88,Semiconductors,Technology
+2/14/2023,Nvidia,NVDA,229.71,Semiconductors,Technology
+2/15/2023,Nvidia,NVDA,227.64,Semiconductors,Technology
+2/16/2023,Nvidia,NVDA,220.02,Semiconductors,Technology
+2/17/2023,Nvidia,NVDA,213.88,Semiconductors,Technology
+2/21/2023,Nvidia,NVDA,206.55,Semiconductors,Technology
+2/22/2023,Nvidia,NVDA,207.54,Semiconductors,Technology
+2/23/2023,Nvidia,NVDA,236.64,Semiconductors,Technology
+2/24/2023,Nvidia,NVDA,232.86,Semiconductors,Technology
+2/27/2023,Nvidia,NVDA,235.01,Semiconductors,Technology
+2/28/2023,Nvidia,NVDA,232.16,Semiconductors,Technology
+3/1/2023,Nvidia,NVDA,226.98,Semiconductors,Technology
+3/2/2023,Nvidia,NVDA,233.14,Semiconductors,Technology
+3/3/2023,Nvidia,NVDA,238.9,Semiconductors,Technology
+3/6/2023,Nvidia,NVDA,235.54,Semiconductors,Technology
+3/7/2023,Nvidia,NVDA,232.88,Semiconductors,Technology
+3/8/2023,Nvidia,NVDA,241.81,Semiconductors,Technology
+3/9/2023,Nvidia,NVDA,234.36,Semiconductors,Technology
+3/10/2023,Nvidia,NVDA,229.65,Semiconductors,Technology
+3/13/2023,Nvidia,NVDA,229.66,Semiconductors,Technology
+3/14/2023,Nvidia,NVDA,240.63,Semiconductors,Technology
+3/15/2023,Nvidia,NVDA,242.28,Semiconductors,Technology
+3/16/2023,Nvidia,NVDA,255.41,Semiconductors,Technology
+3/17/2023,Nvidia,NVDA,257.25,Semiconductors,Technology
+3/20/2023,Nvidia,NVDA,259,Semiconductors,Technology
+3/21/2023,Nvidia,NVDA,261.99,Semiconductors,Technology
+3/22/2023,Nvidia,NVDA,264.68,Semiconductors,Technology
+3/23/2023,Nvidia,NVDA,271.91,Semiconductors,Technology
+3/24/2023,Nvidia,NVDA,267.79,Semiconductors,Technology
+3/27/2023,Nvidia,NVDA,265.31,Semiconductors,Technology
+3/28/2023,Nvidia,NVDA,264.1,Semiconductors,Technology
+3/29/2023,Nvidia,NVDA,269.84,Semiconductors,Technology
+3/30/2023,Nvidia,NVDA,273.83,Semiconductors,Technology
+3/31/2023,Nvidia,NVDA,277.77,Semiconductors,Technology
+4/3/2023,Nvidia,NVDA,279.65,Semiconductors,Technology
+4/4/2023,Nvidia,NVDA,274.53,Semiconductors,Technology
+4/5/2023,Nvidia,NVDA,268.81,Semiconductors,Technology
+4/6/2023,Nvidia,NVDA,270.37,Semiconductors,Technology
+4/10/2023,Nvidia,NVDA,275.79,Semiconductors,Technology
+4/11/2023,Nvidia,NVDA,271.69,Semiconductors,Technology
+4/12/2023,Nvidia,NVDA,264.95,Semiconductors,Technology
+4/13/2023,Nvidia,NVDA,264.63,Semiconductors,Technology
+4/14/2023,Nvidia,NVDA,267.58,Semiconductors,Technology
+4/17/2023,Nvidia,NVDA,270.02,Semiconductors,Technology
+4/18/2023,Nvidia,NVDA,276.67,Semiconductors,Technology
+4/19/2023,Nvidia,NVDA,279.31,Semiconductors,Technology
+4/20/2023,Nvidia,NVDA,271.04,Semiconductors,Technology
+4/21/2023,Nvidia,NVDA,271.19,Semiconductors,Technology
+4/24/2023,Nvidia,NVDA,270.42,Semiconductors,Technology
+4/25/2023,Nvidia,NVDA,262.41,Semiconductors,Technology
+4/26/2023,Nvidia,NVDA,269.56,Semiconductors,Technology
+4/27/2023,Nvidia,NVDA,272.26,Semiconductors,Technology
+4/28/2023,Nvidia,NVDA,277.49,Semiconductors,Technology
+5/1/2023,Nvidia,NVDA,289.1,Semiconductors,Technology
+5/2/2023,Nvidia,NVDA,282.1,Semiconductors,Technology
+5/3/2023,Nvidia,NVDA,278.02,Semiconductors,Technology
+5/4/2023,Nvidia,NVDA,275.62,Semiconductors,Technology
+5/5/2023,Nvidia,NVDA,286.8,Semiconductors,Technology
+5/8/2023,Nvidia,NVDA,291.51,Semiconductors,Technology
+5/9/2023,Nvidia,NVDA,285.71,Semiconductors,Technology
+5/10/2023,Nvidia,NVDA,288.85,Semiconductors,Technology
+5/11/2023,Nvidia,NVDA,285.78,Semiconductors,Technology
+5/12/2023,Nvidia,NVDA,283.4,Semiconductors,Technology
+5/15/2023,Nvidia,NVDA,289.53,Semiconductors,Technology
+5/16/2023,Nvidia,NVDA,292.13,Semiconductors,Technology
+5/17/2023,Nvidia,NVDA,301.78,Semiconductors,Technology
+5/18/2023,Nvidia,NVDA,316.78,Semiconductors,Technology
+5/19/2023,Nvidia,NVDA,312.64,Semiconductors,Technology
+5/22/2023,Nvidia,NVDA,311.76,Semiconductors,Technology
+5/23/2023,Nvidia,NVDA,306.88,Semiconductors,Technology
+5/24/2023,Nvidia,NVDA,305.38,Semiconductors,Technology
+5/25/2023,Nvidia,NVDA,379.8,Semiconductors,Technology
+5/26/2023,Nvidia,NVDA,389.46,Semiconductors,Technology
+5/30/2023,Nvidia,NVDA,401.11,Semiconductors,Technology
+5/31/2023,Nvidia,NVDA,378.34,Semiconductors,Technology
+6/1/2023,Nvidia,NVDA,397.7,Semiconductors,Technology
+6/2/2023,Nvidia,NVDA,393.27,Semiconductors,Technology
+6/5/2023,Nvidia,NVDA,391.71,Semiconductors,Technology
+6/6/2023,Nvidia,NVDA,386.54,Semiconductors,Technology
+6/7/2023,Nvidia,NVDA,374.75,Semiconductors,Technology
+6/8/2023,Nvidia,NVDA,385.1,Semiconductors,Technology
+6/9/2023,Nvidia,NVDA,387.7,Semiconductors,Technology
+6/12/2023,Nvidia,NVDA,394.82,Semiconductors,Technology
+6/13/2023,Nvidia,NVDA,410.22,Semiconductors,Technology
+6/14/2023,Nvidia,NVDA,429.97,Semiconductors,Technology
+6/15/2023,Nvidia,NVDA,426.53,Semiconductors,Technology
+6/16/2023,Nvidia,NVDA,426.92,Semiconductors,Technology
+6/20/2023,Nvidia,NVDA,438.08,Semiconductors,Technology
+6/21/2023,Nvidia,NVDA,430.45,Semiconductors,Technology
+6/22/2023,Nvidia,NVDA,430.25,Semiconductors,Technology
+6/23/2023,Nvidia,NVDA,422.09,Semiconductors,Technology
+6/26/2023,Nvidia,NVDA,406.32,Semiconductors,Technology
+6/27/2023,Nvidia,NVDA,418.76,Semiconductors,Technology
+6/28/2023,Nvidia,NVDA,411.17,Semiconductors,Technology
+6/29/2023,Nvidia,NVDA,408.22,Semiconductors,Technology
+6/30/2023,Nvidia,NVDA,423.02,Semiconductors,Technology
+7/3/2023,Nvidia,NVDA,424.13,Semiconductors,Technology
+7/5/2023,Nvidia,NVDA,423.17,Semiconductors,Technology
+7/6/2023,Nvidia,NVDA,421.03,Semiconductors,Technology
+7/7/2023,Nvidia,NVDA,425.03,Semiconductors,Technology
+7/10/2023,Nvidia,NVDA,421.8,Semiconductors,Technology
+7/11/2023,Nvidia,NVDA,424.05,Semiconductors,Technology
+7/12/2023,Nvidia,NVDA,439.02,Semiconductors,Technology
+7/13/2023,Nvidia,NVDA,459.77,Semiconductors,Technology
+7/14/2023,Nvidia,NVDA,454.69,Semiconductors,Technology
+7/17/2023,Nvidia,NVDA,464.61,Semiconductors,Technology
+7/18/2023,Nvidia,NVDA,474.94,Semiconductors,Technology
+7/19/2023,Nvidia,NVDA,470.77,Semiconductors,Technology
+7/20/2023,Nvidia,NVDA,455.2,Semiconductors,Technology
+7/21/2023,Nvidia,NVDA,443.09,Semiconductors,Technology
+7/24/2023,Nvidia,NVDA,446.12,Semiconductors,Technology
+7/25/2023,Nvidia,NVDA,456.79,Semiconductors,Technology
+7/26/2023,Nvidia,NVDA,454.52,Semiconductors,Technology
+7/27/2023,Nvidia,NVDA,459,Semiconductors,Technology
+7/28/2023,Nvidia,NVDA,467.5,Semiconductors,Technology
+7/31/2023,Nvidia,NVDA,467.29,Semiconductors,Technology
+2/1/2023,Alphabet,GOOGL,100.43,"Computer Software: Programming, Data Processing",Technology
+2/2/2023,Alphabet,GOOGL,107.74,"Computer Software: Programming, Data Processing",Technology
+2/3/2023,Alphabet,GOOGL,104.78,"Computer Software: Programming, Data Processing",Technology
+2/6/2023,Alphabet,GOOGL,102.9,"Computer Software: Programming, Data Processing",Technology
+2/7/2023,Alphabet,GOOGL,107.64,"Computer Software: Programming, Data Processing",Technology
+2/8/2023,Alphabet,GOOGL,99.37,"Computer Software: Programming, Data Processing",Technology
+2/9/2023,Alphabet,GOOGL,95.01,"Computer Software: Programming, Data Processing",Technology
+2/10/2023,Alphabet,GOOGL,94.57,"Computer Software: Programming, Data Processing",Technology
+2/13/2023,Alphabet,GOOGL,94.61,"Computer Software: Programming, Data Processing",Technology
+2/14/2023,Alphabet,GOOGL,94.68,"Computer Software: Programming, Data Processing",Technology
+2/15/2023,Alphabet,GOOGL,96.94,"Computer Software: Programming, Data Processing",Technology
+2/16/2023,Alphabet,GOOGL,95.51,"Computer Software: Programming, Data Processing",Technology
+2/17/2023,Alphabet,GOOGL,94.35,"Computer Software: Programming, Data Processing",Technology
+2/21/2023,Alphabet,GOOGL,91.79,"Computer Software: Programming, Data Processing",Technology
+2/22/2023,Alphabet,GOOGL,91.65,"Computer Software: Programming, Data Processing",Technology
+2/23/2023,Alphabet,GOOGL,90.89,"Computer Software: Programming, Data Processing",Technology
+2/24/2023,Alphabet,GOOGL,89.13,"Computer Software: Programming, Data Processing",Technology
+2/27/2023,Alphabet,GOOGL,89.87,"Computer Software: Programming, Data Processing",Technology
+2/28/2023,Alphabet,GOOGL,90.06,"Computer Software: Programming, Data Processing",Technology
+3/1/2023,Alphabet,GOOGL,90.36,"Computer Software: Programming, Data Processing",Technology
+3/2/2023,Alphabet,GOOGL,92,"Computer Software: Programming, Data Processing",Technology
+3/3/2023,Alphabet,GOOGL,93.65,"Computer Software: Programming, Data Processing",Technology
+3/6/2023,Alphabet,GOOGL,95.13,"Computer Software: Programming, Data Processing",Technology
+3/7/2023,Alphabet,GOOGL,93.86,"Computer Software: Programming, Data Processing",Technology
+3/8/2023,Alphabet,GOOGL,94.25,"Computer Software: Programming, Data Processing",Technology
+3/9/2023,Alphabet,GOOGL,92.32,"Computer Software: Programming, Data Processing",Technology
+3/10/2023,Alphabet,GOOGL,90.63,"Computer Software: Programming, Data Processing",Technology
+3/13/2023,Alphabet,GOOGL,91.11,"Computer Software: Programming, Data Processing",Technology
+3/14/2023,Alphabet,GOOGL,93.97,"Computer Software: Programming, Data Processing",Technology
+3/15/2023,Alphabet,GOOGL,96.11,"Computer Software: Programming, Data Processing",Technology
+3/16/2023,Alphabet,GOOGL,100.32,"Computer Software: Programming, Data Processing",Technology
+3/17/2023,Alphabet,GOOGL,101.62,"Computer Software: Programming, Data Processing",Technology
+3/20/2023,Alphabet,GOOGL,101.22,"Computer Software: Programming, Data Processing",Technology
+3/21/2023,Alphabet,GOOGL,104.92,"Computer Software: Programming, Data Processing",Technology
+3/22/2023,Alphabet,GOOGL,103.37,"Computer Software: Programming, Data Processing",Technology
+3/23/2023,Alphabet,GOOGL,105.6,"Computer Software: Programming, Data Processing",Technology
+3/24/2023,Alphabet,GOOGL,105.44,"Computer Software: Programming, Data Processing",Technology
+3/27/2023,Alphabet,GOOGL,102.46,"Computer Software: Programming, Data Processing",Technology
+3/28/2023,Alphabet,GOOGL,101.03,"Computer Software: Programming, Data Processing",Technology
+3/29/2023,Alphabet,GOOGL,101.39,"Computer Software: Programming, Data Processing",Technology
+3/30/2023,Alphabet,GOOGL,100.89,"Computer Software: Programming, Data Processing",Technology
+3/31/2023,Alphabet,GOOGL,103.73,"Computer Software: Programming, Data Processing",Technology
+4/3/2023,Alphabet,GOOGL,104.36,"Computer Software: Programming, Data Processing",Technology
+4/4/2023,Alphabet,GOOGL,104.72,"Computer Software: Programming, Data Processing",Technology
+4/5/2023,Alphabet,GOOGL,104.47,"Computer Software: Programming, Data Processing",Technology
+4/6/2023,Alphabet,GOOGL,108.42,"Computer Software: Programming, Data Processing",Technology
+4/10/2023,Alphabet,GOOGL,106.44,"Computer Software: Programming, Data Processing",Technology
+4/11/2023,Alphabet,GOOGL,105.35,"Computer Software: Programming, Data Processing",Technology
+4/12/2023,Alphabet,GOOGL,104.64,"Computer Software: Programming, Data Processing",Technology
+4/13/2023,Alphabet,GOOGL,107.43,"Computer Software: Programming, Data Processing",Technology
+4/14/2023,Alphabet,GOOGL,108.87,"Computer Software: Programming, Data Processing",Technology
+4/17/2023,Alphabet,GOOGL,105.97,"Computer Software: Programming, Data Processing",Technology
+4/18/2023,Alphabet,GOOGL,104.5,"Computer Software: Programming, Data Processing",Technology
+4/19/2023,Alphabet,GOOGL,104.18,"Computer Software: Programming, Data Processing",Technology
+4/20/2023,Alphabet,GOOGL,105.29,"Computer Software: Programming, Data Processing",Technology
+4/21/2023,Alphabet,GOOGL,105.41,"Computer Software: Programming, Data Processing",Technology
+4/24/2023,Alphabet,GOOGL,105.97,"Computer Software: Programming, Data Processing",Technology
+4/25/2023,Alphabet,GOOGL,103.85,"Computer Software: Programming, Data Processing",Technology
+4/26/2023,Alphabet,GOOGL,103.71,"Computer Software: Programming, Data Processing",Technology
+4/27/2023,Alphabet,GOOGL,107.59,"Computer Software: Programming, Data Processing",Technology
+4/28/2023,Alphabet,GOOGL,107.34,"Computer Software: Programming, Data Processing",Technology
+5/1/2023,Alphabet,GOOGL,107.2,"Computer Software: Programming, Data Processing",Technology
+5/2/2023,Alphabet,GOOGL,105.32,"Computer Software: Programming, Data Processing",Technology
+5/3/2023,Alphabet,GOOGL,105.41,"Computer Software: Programming, Data Processing",Technology
+5/4/2023,Alphabet,GOOGL,104.69,"Computer Software: Programming, Data Processing",Technology
+5/5/2023,Alphabet,GOOGL,105.57,"Computer Software: Programming, Data Processing",Technology
+5/8/2023,Alphabet,GOOGL,107.77,"Computer Software: Programming, Data Processing",Technology
+5/9/2023,Alphabet,GOOGL,107.35,"Computer Software: Programming, Data Processing",Technology
+5/10/2023,Alphabet,GOOGL,111.75,"Computer Software: Programming, Data Processing",Technology
+5/11/2023,Alphabet,GOOGL,116.57,"Computer Software: Programming, Data Processing",Technology
+5/12/2023,Alphabet,GOOGL,117.51,"Computer Software: Programming, Data Processing",Technology
+5/15/2023,Alphabet,GOOGL,116.51,"Computer Software: Programming, Data Processing",Technology
+5/16/2023,Alphabet,GOOGL,119.51,"Computer Software: Programming, Data Processing",Technology
+5/17/2023,Alphabet,GOOGL,120.84,"Computer Software: Programming, Data Processing",Technology
+5/18/2023,Alphabet,GOOGL,122.83,"Computer Software: Programming, Data Processing",Technology
+5/19/2023,Alphabet,GOOGL,122.76,"Computer Software: Programming, Data Processing",Technology
+5/22/2023,Alphabet,GOOGL,125.05,"Computer Software: Programming, Data Processing",Technology
+5/23/2023,Alphabet,GOOGL,122.56,"Computer Software: Programming, Data Processing",Technology
+5/24/2023,Alphabet,GOOGL,120.9,"Computer Software: Programming, Data Processing",Technology
+5/25/2023,Alphabet,GOOGL,123.48,"Computer Software: Programming, Data Processing",Technology
+5/26/2023,Alphabet,GOOGL,124.61,"Computer Software: Programming, Data Processing",Technology
+5/30/2023,Alphabet,GOOGL,123.67,"Computer Software: Programming, Data Processing",Technology
+5/31/2023,Alphabet,GOOGL,122.87,"Computer Software: Programming, Data Processing",Technology
+6/1/2023,Alphabet,GOOGL,123.72,"Computer Software: Programming, Data Processing",Technology
+6/2/2023,Alphabet,GOOGL,124.67,"Computer Software: Programming, Data Processing",Technology
+6/5/2023,Alphabet,GOOGL,126.01,"Computer Software: Programming, Data Processing",Technology
+6/6/2023,Alphabet,GOOGL,127.31,"Computer Software: Programming, Data Processing",Technology
+6/7/2023,Alphabet,GOOGL,122.5,"Computer Software: Programming, Data Processing",Technology
+6/8/2023,Alphabet,GOOGL,122.14,"Computer Software: Programming, Data Processing",Technology
+6/9/2023,Alphabet,GOOGL,122.23,"Computer Software: Programming, Data Processing",Technology
+6/12/2023,Alphabet,GOOGL,123.64,"Computer Software: Programming, Data Processing",Technology
+6/13/2023,Alphabet,GOOGL,123.83,"Computer Software: Programming, Data Processing",Technology
+6/14/2023,Alphabet,GOOGL,123.67,"Computer Software: Programming, Data Processing",Technology
+6/15/2023,Alphabet,GOOGL,125.09,"Computer Software: Programming, Data Processing",Technology
+6/16/2023,Alphabet,GOOGL,123.53,"Computer Software: Programming, Data Processing",Technology
+6/20/2023,Alphabet,GOOGL,123.1,"Computer Software: Programming, Data Processing",Technology
+6/21/2023,Alphabet,GOOGL,120.55,"Computer Software: Programming, Data Processing",Technology
+6/22/2023,Alphabet,GOOGL,123.15,"Computer Software: Programming, Data Processing",Technology
+6/23/2023,Alphabet,GOOGL,122.34,"Computer Software: Programming, Data Processing",Technology
+6/26/2023,Alphabet,GOOGL,118.34,"Computer Software: Programming, Data Processing",Technology
+6/27/2023,Alphabet,GOOGL,118.33,"Computer Software: Programming, Data Processing",Technology
+6/28/2023,Alphabet,GOOGL,120.18,"Computer Software: Programming, Data Processing",Technology
+6/29/2023,Alphabet,GOOGL,119.1,"Computer Software: Programming, Data Processing",Technology
+6/30/2023,Alphabet,GOOGL,119.7,"Computer Software: Programming, Data Processing",Technology
+7/3/2023,Alphabet,GOOGL,119.9,"Computer Software: Programming, Data Processing",Technology
+7/5/2023,Alphabet,GOOGL,121.75,"Computer Software: Programming, Data Processing",Technology
+7/6/2023,Alphabet,GOOGL,120.11,"Computer Software: Programming, Data Processing",Technology
+7/7/2023,Alphabet,GOOGL,119.48,"Computer Software: Programming, Data Processing",Technology
+7/10/2023,Alphabet,GOOGL,116.45,"Computer Software: Programming, Data Processing",Technology
+7/11/2023,Alphabet,GOOGL,117.14,"Computer Software: Programming, Data Processing",Technology
+7/12/2023,Alphabet,GOOGL,118.93,"Computer Software: Programming, Data Processing",Technology
+7/13/2023,Alphabet,GOOGL,124.54,"Computer Software: Programming, Data Processing",Technology
+7/14/2023,Alphabet,GOOGL,125.42,"Computer Software: Programming, Data Processing",Technology
+7/17/2023,Alphabet,GOOGL,124.65,"Computer Software: Programming, Data Processing",Technology
+7/18/2023,Alphabet,GOOGL,123.76,"Computer Software: Programming, Data Processing",Technology
+7/19/2023,Alphabet,GOOGL,122.03,"Computer Software: Programming, Data Processing",Technology
+7/20/2023,Alphabet,GOOGL,119.2,"Computer Software: Programming, Data Processing",Technology
+7/21/2023,Alphabet,GOOGL,120.02,"Computer Software: Programming, Data Processing",Technology
+7/24/2023,Alphabet,GOOGL,121.53,"Computer Software: Programming, Data Processing",Technology
+7/25/2023,Alphabet,GOOGL,122.21,"Computer Software: Programming, Data Processing",Technology
+7/26/2023,Alphabet,GOOGL,129.27,"Computer Software: Programming, Data Processing",Technology
+7/27/2023,Alphabet,GOOGL,129.4,"Computer Software: Programming, Data Processing",Technology
+7/28/2023,Alphabet,GOOGL,132.58,"Computer Software: Programming, Data Processing",Technology
+7/31/2023,Alphabet,GOOGL,132.72,"Computer Software: Programming, Data Processing",Technology
+2/1/2023,Meta,META,153.12,"Computer Software: Programming, Data Processing",Technology
+2/2/2023,Meta,META,188.77,"Computer Software: Programming, Data Processing",Technology
+2/3/2023,Meta,META,186.53,"Computer Software: Programming, Data Processing",Technology
+2/6/2023,Meta,META,186.06,"Computer Software: Programming, Data Processing",Technology
+2/7/2023,Meta,META,191.62,"Computer Software: Programming, Data Processing",Technology
+2/8/2023,Meta,META,183.43,"Computer Software: Programming, Data Processing",Technology
+2/9/2023,Meta,META,177.92,"Computer Software: Programming, Data Processing",Technology
+2/10/2023,Meta,META,174.15,"Computer Software: Programming, Data Processing",Technology
+2/13/2023,Meta,META,179.43,"Computer Software: Programming, Data Processing",Technology
+2/14/2023,Meta,META,179.48,"Computer Software: Programming, Data Processing",Technology
+2/15/2023,Meta,META,177.16,"Computer Software: Programming, Data Processing",Technology
+2/16/2023,Meta,META,172.44,"Computer Software: Programming, Data Processing",Technology
+2/17/2023,Meta,META,172.88,"Computer Software: Programming, Data Processing",Technology
+2/21/2023,Meta,META,172.08,"Computer Software: Programming, Data Processing",Technology
+2/22/2023,Meta,META,171.12,"Computer Software: Programming, Data Processing",Technology
+2/23/2023,Meta,META,172.04,"Computer Software: Programming, Data Processing",Technology
+2/24/2023,Meta,META,170.39,"Computer Software: Programming, Data Processing",Technology
+2/27/2023,Meta,META,169.54,"Computer Software: Programming, Data Processing",Technology
+2/28/2023,Meta,META,174.94,"Computer Software: Programming, Data Processing",Technology
+3/1/2023,Meta,META,173.42,"Computer Software: Programming, Data Processing",Technology
+3/2/2023,Meta,META,174.53,"Computer Software: Programming, Data Processing",Technology
+3/3/2023,Meta,META,185.25,"Computer Software: Programming, Data Processing",Technology
+3/6/2023,Meta,META,184.9,"Computer Software: Programming, Data Processing",Technology
+3/7/2023,Meta,META,184.51,"Computer Software: Programming, Data Processing",Technology
+3/8/2023,Meta,META,184.97,"Computer Software: Programming, Data Processing",Technology
+3/9/2023,Meta,META,181.69,"Computer Software: Programming, Data Processing",Technology
+3/10/2023,Meta,META,179.51,"Computer Software: Programming, Data Processing",Technology
+3/13/2023,Meta,META,180.9,"Computer Software: Programming, Data Processing",Technology
+3/14/2023,Meta,META,194.02,"Computer Software: Programming, Data Processing",Technology
+3/15/2023,Meta,META,197.75,"Computer Software: Programming, Data Processing",Technology
+3/16/2023,Meta,META,204.93,"Computer Software: Programming, Data Processing",Technology
+3/17/2023,Meta,META,195.61,"Computer Software: Programming, Data Processing",Technology
+3/20/2023,Meta,META,197.81,"Computer Software: Programming, Data Processing",Technology
+3/21/2023,Meta,META,202.16,"Computer Software: Programming, Data Processing",Technology
+3/22/2023,Meta,META,199.81,"Computer Software: Programming, Data Processing",Technology
+3/23/2023,Meta,META,204.28,"Computer Software: Programming, Data Processing",Technology
+3/24/2023,Meta,META,206.01,"Computer Software: Programming, Data Processing",Technology
+3/27/2023,Meta,META,202.84,"Computer Software: Programming, Data Processing",Technology
+3/28/2023,Meta,META,200.68,"Computer Software: Programming, Data Processing",Technology
+3/29/2023,Meta,META,205.35,"Computer Software: Programming, Data Processing",Technology
+3/30/2023,Meta,META,207.84,"Computer Software: Programming, Data Processing",Technology
+3/31/2023,Meta,META,211.94,"Computer Software: Programming, Data Processing",Technology
+4/3/2023,Meta,META,213.07,"Computer Software: Programming, Data Processing",Technology
+4/4/2023,Meta,META,214.72,"Computer Software: Programming, Data Processing",Technology
+4/5/2023,Meta,META,211.48,"Computer Software: Programming, Data Processing",Technology
+4/6/2023,Meta,META,216.1,"Computer Software: Programming, Data Processing",Technology
+4/10/2023,Meta,META,214.75,"Computer Software: Programming, Data Processing",Technology
+4/11/2023,Meta,META,213.85,"Computer Software: Programming, Data Processing",Technology
+4/12/2023,Meta,META,214,"Computer Software: Programming, Data Processing",Technology
+4/13/2023,Meta,META,220.35,"Computer Software: Programming, Data Processing",Technology
+4/14/2023,Meta,META,221.49,"Computer Software: Programming, Data Processing",Technology
+4/17/2023,Meta,META,218.86,"Computer Software: Programming, Data Processing",Technology
+4/18/2023,Meta,META,217.89,"Computer Software: Programming, Data Processing",Technology
+4/19/2023,Meta,META,215.7,"Computer Software: Programming, Data Processing",Technology
+4/20/2023,Meta,META,213.07,"Computer Software: Programming, Data Processing",Technology
+4/21/2023,Meta,META,212.89,"Computer Software: Programming, Data Processing",Technology
+4/24/2023,Meta,META,212.79,"Computer Software: Programming, Data Processing",Technology
+4/25/2023,Meta,META,207.55,"Computer Software: Programming, Data Processing",Technology
+4/26/2023,Meta,META,209.4,"Computer Software: Programming, Data Processing",Technology
+4/27/2023,Meta,META,238.56,"Computer Software: Programming, Data Processing",Technology
+4/28/2023,Meta,META,240.32,"Computer Software: Programming, Data Processing",Technology
+5/1/2023,Meta,META,243.18,"Computer Software: Programming, Data Processing",Technology
+5/2/2023,Meta,META,239.24,"Computer Software: Programming, Data Processing",Technology
+5/3/2023,Meta,META,237.03,"Computer Software: Programming, Data Processing",Technology
+5/4/2023,Meta,META,233.52,"Computer Software: Programming, Data Processing",Technology
+5/5/2023,Meta,META,232.78,"Computer Software: Programming, Data Processing",Technology
+5/8/2023,Meta,META,233.27,"Computer Software: Programming, Data Processing",Technology
+5/9/2023,Meta,META,233.37,"Computer Software: Programming, Data Processing",Technology
+5/10/2023,Meta,META,233.08,"Computer Software: Programming, Data Processing",Technology
+5/11/2023,Meta,META,235.79,"Computer Software: Programming, Data Processing",Technology
+5/12/2023,Meta,META,233.81,"Computer Software: Programming, Data Processing",Technology
+5/15/2023,Meta,META,238.86,"Computer Software: Programming, Data Processing",Technology
+5/16/2023,Meta,META,238.82,"Computer Software: Programming, Data Processing",Technology
+5/17/2023,Meta,META,242.49,"Computer Software: Programming, Data Processing",Technology
+5/18/2023,Meta,META,246.85,"Computer Software: Programming, Data Processing",Technology
+5/19/2023,Meta,META,245.64,"Computer Software: Programming, Data Processing",Technology
+5/22/2023,Meta,META,248.32,"Computer Software: Programming, Data Processing",Technology
+5/23/2023,Meta,META,246.74,"Computer Software: Programming, Data Processing",Technology
+5/24/2023,Meta,META,249.21,"Computer Software: Programming, Data Processing",Technology
+5/25/2023,Meta,META,252.69,"Computer Software: Programming, Data Processing",Technology
+5/26/2023,Meta,META,262.04,"Computer Software: Programming, Data Processing",Technology
+5/30/2023,Meta,META,262.52,"Computer Software: Programming, Data Processing",Technology
+5/31/2023,Meta,META,264.72,"Computer Software: Programming, Data Processing",Technology
+6/1/2023,Meta,META,272.61,"Computer Software: Programming, Data Processing",Technology
+6/2/2023,Meta,META,272.61,"Computer Software: Programming, Data Processing",Technology
+6/5/2023,Meta,META,271.39,"Computer Software: Programming, Data Processing",Technology
+6/6/2023,Meta,META,271.12,"Computer Software: Programming, Data Processing",Technology
+6/7/2023,Meta,META,263.6,"Computer Software: Programming, Data Processing",Technology
+6/8/2023,Meta,META,264.58,"Computer Software: Programming, Data Processing",Technology
+6/9/2023,Meta,META,264.95,"Computer Software: Programming, Data Processing",Technology
+6/12/2023,Meta,META,271.05,"Computer Software: Programming, Data Processing",Technology
+6/13/2023,Meta,META,271.32,"Computer Software: Programming, Data Processing",Technology
+6/14/2023,Meta,META,273.35,"Computer Software: Programming, Data Processing",Technology
+6/15/2023,Meta,META,281.83,"Computer Software: Programming, Data Processing",Technology
+6/16/2023,Meta,META,281,"Computer Software: Programming, Data Processing",Technology
+6/20/2023,Meta,META,284.33,"Computer Software: Programming, Data Processing",Technology
+6/21/2023,Meta,META,281.64,"Computer Software: Programming, Data Processing",Technology
+6/22/2023,Meta,META,284.88,"Computer Software: Programming, Data Processing",Technology
+6/23/2023,Meta,META,288.73,"Computer Software: Programming, Data Processing",Technology
+6/26/2023,Meta,META,278.47,"Computer Software: Programming, Data Processing",Technology
+6/27/2023,Meta,META,287.05,"Computer Software: Programming, Data Processing",Technology
+6/28/2023,Meta,META,285.29,"Computer Software: Programming, Data Processing",Technology
+6/29/2023,Meta,META,281.53,"Computer Software: Programming, Data Processing",Technology
+6/30/2023,Meta,META,286.98,"Computer Software: Programming, Data Processing",Technology
+7/3/2023,Meta,META,286.02,"Computer Software: Programming, Data Processing",Technology
+7/5/2023,Meta,META,294.37,"Computer Software: Programming, Data Processing",Technology
+7/6/2023,Meta,META,291.99,"Computer Software: Programming, Data Processing",Technology
+7/7/2023,Meta,META,290.53,"Computer Software: Programming, Data Processing",Technology
+7/10/2023,Meta,META,294.1,"Computer Software: Programming, Data Processing",Technology
+7/11/2023,Meta,META,298.29,"Computer Software: Programming, Data Processing",Technology
+7/12/2023,Meta,META,309.34,"Computer Software: Programming, Data Processing",Technology
+7/13/2023,Meta,META,313.41,"Computer Software: Programming, Data Processing",Technology
+7/14/2023,Meta,META,308.87,"Computer Software: Programming, Data Processing",Technology
+7/17/2023,Meta,META,310.62,"Computer Software: Programming, Data Processing",Technology
+7/18/2023,Meta,META,312.05,"Computer Software: Programming, Data Processing",Technology
+7/19/2023,Meta,META,316.01,"Computer Software: Programming, Data Processing",Technology
+7/20/2023,Meta,META,302.52,"Computer Software: Programming, Data Processing",Technology
+7/21/2023,Meta,META,294.26,"Computer Software: Programming, Data Processing",Technology
+7/24/2023,Meta,META,291.61,"Computer Software: Programming, Data Processing",Technology
+7/25/2023,Meta,META,294.47,"Computer Software: Programming, Data Processing",Technology
+7/26/2023,Meta,META,298.57,"Computer Software: Programming, Data Processing",Technology
+7/27/2023,Meta,META,311.71,"Computer Software: Programming, Data Processing",Technology
+7/28/2023,Meta,META,325.48,"Computer Software: Programming, Data Processing",Technology
+7/31/2023,Meta,META,318.6,"Computer Software: Programming, Data Processing",Technology
+2/1/2023,Tesla,TSLA,181.41,Auto Manufacturing,Consumer Discretionary
+2/2/2023,Tesla,TSLA,188.27,Auto Manufacturing,Consumer Discretionary
+2/3/2023,Tesla,TSLA,189.98,Auto Manufacturing,Consumer Discretionary
+2/6/2023,Tesla,TSLA,194.76,Auto Manufacturing,Consumer Discretionary
+2/7/2023,Tesla,TSLA,196.81,Auto Manufacturing,Consumer Discretionary
+2/8/2023,Tesla,TSLA,201.29,Auto Manufacturing,Consumer Discretionary
+2/9/2023,Tesla,TSLA,207.32,Auto Manufacturing,Consumer Discretionary
+2/10/2023,Tesla,TSLA,196.89,Auto Manufacturing,Consumer Discretionary
+2/13/2023,Tesla,TSLA,194.64,Auto Manufacturing,Consumer Discretionary
+2/14/2023,Tesla,TSLA,209.25,Auto Manufacturing,Consumer Discretionary
+2/15/2023,Tesla,TSLA,214.24,Auto Manufacturing,Consumer Discretionary
+2/16/2023,Tesla,TSLA,202.04,Auto Manufacturing,Consumer Discretionary
+2/17/2023,Tesla,TSLA,208.31,Auto Manufacturing,Consumer Discretionary
+2/21/2023,Tesla,TSLA,197.37,Auto Manufacturing,Consumer Discretionary
+2/22/2023,Tesla,TSLA,200.86,Auto Manufacturing,Consumer Discretionary
+2/23/2023,Tesla,TSLA,202.07,Auto Manufacturing,Consumer Discretionary
+2/24/2023,Tesla,TSLA,196.88,Auto Manufacturing,Consumer Discretionary
+2/27/2023,Tesla,TSLA,207.63,Auto Manufacturing,Consumer Discretionary
+2/28/2023,Tesla,TSLA,205.71,Auto Manufacturing,Consumer Discretionary
+3/1/2023,Tesla,TSLA,202.77,Auto Manufacturing,Consumer Discretionary
+3/2/2023,Tesla,TSLA,190.9,Auto Manufacturing,Consumer Discretionary
+3/3/2023,Tesla,TSLA,197.79,Auto Manufacturing,Consumer Discretionary
+3/6/2023,Tesla,TSLA,193.81,Auto Manufacturing,Consumer Discretionary
+3/7/2023,Tesla,TSLA,187.71,Auto Manufacturing,Consumer Discretionary
+3/8/2023,Tesla,TSLA,182,Auto Manufacturing,Consumer Discretionary
+3/9/2023,Tesla,TSLA,172.92,Auto Manufacturing,Consumer Discretionary
+3/10/2023,Tesla,TSLA,173.44,Auto Manufacturing,Consumer Discretionary
+3/13/2023,Tesla,TSLA,174.48,Auto Manufacturing,Consumer Discretionary
+3/14/2023,Tesla,TSLA,183.26,Auto Manufacturing,Consumer Discretionary
+3/15/2023,Tesla,TSLA,180.45,Auto Manufacturing,Consumer Discretionary
+3/16/2023,Tesla,TSLA,184.13,Auto Manufacturing,Consumer Discretionary
+3/17/2023,Tesla,TSLA,180.13,Auto Manufacturing,Consumer Discretionary
+3/20/2023,Tesla,TSLA,183.25,Auto Manufacturing,Consumer Discretionary
+3/21/2023,Tesla,TSLA,197.58,Auto Manufacturing,Consumer Discretionary
+3/22/2023,Tesla,TSLA,191.15,Auto Manufacturing,Consumer Discretionary
+3/23/2023,Tesla,TSLA,192.22,Auto Manufacturing,Consumer Discretionary
+3/24/2023,Tesla,TSLA,190.41,Auto Manufacturing,Consumer Discretionary
+3/27/2023,Tesla,TSLA,191.81,Auto Manufacturing,Consumer Discretionary
+3/28/2023,Tesla,TSLA,189.19,Auto Manufacturing,Consumer Discretionary
+3/29/2023,Tesla,TSLA,193.88,Auto Manufacturing,Consumer Discretionary
+3/30/2023,Tesla,TSLA,195.28,Auto Manufacturing,Consumer Discretionary
+3/31/2023,Tesla,TSLA,207.46,Auto Manufacturing,Consumer Discretionary
+4/3/2023,Tesla,TSLA,194.77,Auto Manufacturing,Consumer Discretionary
+4/4/2023,Tesla,TSLA,192.58,Auto Manufacturing,Consumer Discretionary
+4/5/2023,Tesla,TSLA,185.52,Auto Manufacturing,Consumer Discretionary
+4/6/2023,Tesla,TSLA,185.06,Auto Manufacturing,Consumer Discretionary
+4/10/2023,Tesla,TSLA,184.51,Auto Manufacturing,Consumer Discretionary
+4/11/2023,Tesla,TSLA,186.79,Auto Manufacturing,Consumer Discretionary
+4/12/2023,Tesla,TSLA,180.54,Auto Manufacturing,Consumer Discretionary
+4/13/2023,Tesla,TSLA,185.9,Auto Manufacturing,Consumer Discretionary
+4/14/2023,Tesla,TSLA,185,Auto Manufacturing,Consumer Discretionary
+4/17/2023,Tesla,TSLA,187.04,Auto Manufacturing,Consumer Discretionary
+4/18/2023,Tesla,TSLA,184.31,Auto Manufacturing,Consumer Discretionary
+4/19/2023,Tesla,TSLA,180.59,Auto Manufacturing,Consumer Discretionary
+4/20/2023,Tesla,TSLA,162.99,Auto Manufacturing,Consumer Discretionary
+4/21/2023,Tesla,TSLA,165.08,Auto Manufacturing,Consumer Discretionary
+4/24/2023,Tesla,TSLA,162.55,Auto Manufacturing,Consumer Discretionary
+4/25/2023,Tesla,TSLA,160.67,Auto Manufacturing,Consumer Discretionary
+4/26/2023,Tesla,TSLA,153.75,Auto Manufacturing,Consumer Discretionary
+4/27/2023,Tesla,TSLA,160.19,Auto Manufacturing,Consumer Discretionary
+4/28/2023,Tesla,TSLA,164.31,Auto Manufacturing,Consumer Discretionary
+5/1/2023,Tesla,TSLA,161.83,Auto Manufacturing,Consumer Discretionary
+5/2/2023,Tesla,TSLA,160.31,Auto Manufacturing,Consumer Discretionary
+5/3/2023,Tesla,TSLA,160.61,Auto Manufacturing,Consumer Discretionary
+5/4/2023,Tesla,TSLA,161.2,Auto Manufacturing,Consumer Discretionary
+5/5/2023,Tesla,TSLA,170.06,Auto Manufacturing,Consumer Discretionary
+5/8/2023,Tesla,TSLA,171.79,Auto Manufacturing,Consumer Discretionary
+5/9/2023,Tesla,TSLA,169.15,Auto Manufacturing,Consumer Discretionary
+5/10/2023,Tesla,TSLA,168.54,Auto Manufacturing,Consumer Discretionary
+5/11/2023,Tesla,TSLA,172.08,Auto Manufacturing,Consumer Discretionary
+5/12/2023,Tesla,TSLA,167.98,Auto Manufacturing,Consumer Discretionary
+5/15/2023,Tesla,TSLA,166.35,Auto Manufacturing,Consumer Discretionary
+5/16/2023,Tesla,TSLA,166.52,Auto Manufacturing,Consumer Discretionary
+5/17/2023,Tesla,TSLA,173.86,Auto Manufacturing,Consumer Discretionary
+5/18/2023,Tesla,TSLA,176.89,Auto Manufacturing,Consumer Discretionary
+5/19/2023,Tesla,TSLA,180.14,Auto Manufacturing,Consumer Discretionary
+5/22/2023,Tesla,TSLA,188.87,Auto Manufacturing,Consumer Discretionary
+5/23/2023,Tesla,TSLA,185.77,Auto Manufacturing,Consumer Discretionary
+5/24/2023,Tesla,TSLA,182.9,Auto Manufacturing,Consumer Discretionary
+5/25/2023,Tesla,TSLA,184.47,Auto Manufacturing,Consumer Discretionary
+5/26/2023,Tesla,TSLA,193.17,Auto Manufacturing,Consumer Discretionary
+5/30/2023,Tesla,TSLA,201.16,Auto Manufacturing,Consumer Discretionary
+5/31/2023,Tesla,TSLA,203.93,Auto Manufacturing,Consumer Discretionary
+6/1/2023,Tesla,TSLA,207.52,Auto Manufacturing,Consumer Discretionary
+6/2/2023,Tesla,TSLA,213.97,Auto Manufacturing,Consumer Discretionary
+6/5/2023,Tesla,TSLA,217.61,Auto Manufacturing,Consumer Discretionary
+6/6/2023,Tesla,TSLA,221.31,Auto Manufacturing,Consumer Discretionary
+6/7/2023,Tesla,TSLA,224.57,Auto Manufacturing,Consumer Discretionary
+6/8/2023,Tesla,TSLA,234.86,Auto Manufacturing,Consumer Discretionary
+6/9/2023,Tesla,TSLA,244.4,Auto Manufacturing,Consumer Discretionary
+6/12/2023,Tesla,TSLA,249.83,Auto Manufacturing,Consumer Discretionary
+6/13/2023,Tesla,TSLA,258.71,Auto Manufacturing,Consumer Discretionary
+6/14/2023,Tesla,TSLA,256.79,Auto Manufacturing,Consumer Discretionary
+6/15/2023,Tesla,TSLA,255.9,Auto Manufacturing,Consumer Discretionary
+6/16/2023,Tesla,TSLA,260.54,Auto Manufacturing,Consumer Discretionary
+6/20/2023,Tesla,TSLA,274.45,Auto Manufacturing,Consumer Discretionary
+6/21/2023,Tesla,TSLA,259.46,Auto Manufacturing,Consumer Discretionary
+6/22/2023,Tesla,TSLA,264.61,Auto Manufacturing,Consumer Discretionary
+6/23/2023,Tesla,TSLA,256.6,Auto Manufacturing,Consumer Discretionary
+6/26/2023,Tesla,TSLA,241.05,Auto Manufacturing,Consumer Discretionary
+6/27/2023,Tesla,TSLA,250.21,Auto Manufacturing,Consumer Discretionary
+6/28/2023,Tesla,TSLA,256.24,Auto Manufacturing,Consumer Discretionary
+6/29/2023,Tesla,TSLA,257.5,Auto Manufacturing,Consumer Discretionary
+6/30/2023,Tesla,TSLA,261.77,Auto Manufacturing,Consumer Discretionary
+7/3/2023,Tesla,TSLA,279.82,Auto Manufacturing,Consumer Discretionary
+7/5/2023,Tesla,TSLA,282.48,Auto Manufacturing,Consumer Discretionary
+7/6/2023,Tesla,TSLA,276.54,Auto Manufacturing,Consumer Discretionary
+7/7/2023,Tesla,TSLA,274.43,Auto Manufacturing,Consumer Discretionary
+7/10/2023,Tesla,TSLA,269.61,Auto Manufacturing,Consumer Discretionary
+7/11/2023,Tesla,TSLA,269.79,Auto Manufacturing,Consumer Discretionary
+7/12/2023,Tesla,TSLA,271.99,Auto Manufacturing,Consumer Discretionary
+7/13/2023,Tesla,TSLA,277.9,Auto Manufacturing,Consumer Discretionary
+7/14/2023,Tesla,TSLA,281.38,Auto Manufacturing,Consumer Discretionary
+7/17/2023,Tesla,TSLA,290.38,Auto Manufacturing,Consumer Discretionary
+7/18/2023,Tesla,TSLA,293.34,Auto Manufacturing,Consumer Discretionary
+7/19/2023,Tesla,TSLA,291.26,Auto Manufacturing,Consumer Discretionary
+7/20/2023,Tesla,TSLA,262.9,Auto Manufacturing,Consumer Discretionary
+7/21/2023,Tesla,TSLA,260.02,Auto Manufacturing,Consumer Discretionary
+7/24/2023,Tesla,TSLA,269.06,Auto Manufacturing,Consumer Discretionary
+7/25/2023,Tesla,TSLA,265.28,Auto Manufacturing,Consumer Discretionary
+7/26/2023,Tesla,TSLA,264.35,Auto Manufacturing,Consumer Discretionary
+7/27/2023,Tesla,TSLA,255.71,Auto Manufacturing,Consumer Discretionary
+7/28/2023,Tesla,TSLA,266.44,Auto Manufacturing,Consumer Discretionary
+7/31/2023,Tesla,TSLA,267.43,Auto Manufacturing,Consumer Discretionary
+2/1/2023,Berkshire Hathaway,BRK.B,310.57,Conglomerate,Conglomerate
+2/2/2023,Berkshire Hathaway,BRK.B,311.86,Conglomerate,Conglomerate
+2/3/2023,Berkshire Hathaway,BRK.B,308.51,Conglomerate,Conglomerate
+2/6/2023,Berkshire Hathaway,BRK.B,308.43,Conglomerate,Conglomerate
+2/7/2023,Berkshire Hathaway,BRK.B,312.97,Conglomerate,Conglomerate
+2/8/2023,Berkshire Hathaway,BRK.B,308.48,Conglomerate,Conglomerate
+2/9/2023,Berkshire Hathaway,BRK.B,307.21,Conglomerate,Conglomerate
+2/10/2023,Berkshire Hathaway,BRK.B,309.89,Conglomerate,Conglomerate
+2/13/2023,Berkshire Hathaway,BRK.B,313.74,Conglomerate,Conglomerate
+2/14/2023,Berkshire Hathaway,BRK.B,310.79,Conglomerate,Conglomerate
+2/15/2023,Berkshire Hathaway,BRK.B,309.63,Conglomerate,Conglomerate
+2/16/2023,Berkshire Hathaway,BRK.B,308.18,Conglomerate,Conglomerate
+2/17/2023,Berkshire Hathaway,BRK.B,308.24,Conglomerate,Conglomerate
+2/21/2023,Berkshire Hathaway,BRK.B,302.72,Conglomerate,Conglomerate
+2/22/2023,Berkshire Hathaway,BRK.B,303.16,Conglomerate,Conglomerate
+2/23/2023,Berkshire Hathaway,BRK.B,303.07,Conglomerate,Conglomerate
+2/24/2023,Berkshire Hathaway,BRK.B,304.02,Conglomerate,Conglomerate
+2/27/2023,Berkshire Hathaway,BRK.B,304.66,Conglomerate,Conglomerate
+2/28/2023,Berkshire Hathaway,BRK.B,305.18,Conglomerate,Conglomerate
+3/1/2023,Berkshire Hathaway,BRK.B,304.62,Conglomerate,Conglomerate
+3/2/2023,Berkshire Hathaway,BRK.B,307.75,Conglomerate,Conglomerate
+3/3/2023,Berkshire Hathaway,BRK.B,312.45,Conglomerate,Conglomerate
+3/6/2023,Berkshire Hathaway,BRK.B,316.97,Conglomerate,Conglomerate
+3/7/2023,Berkshire Hathaway,BRK.B,311.12,Conglomerate,Conglomerate
+3/8/2023,Berkshire Hathaway,BRK.B,311.37,Conglomerate,Conglomerate
+3/9/2023,Berkshire Hathaway,BRK.B,304.82,Conglomerate,Conglomerate
+3/10/2023,Berkshire Hathaway,BRK.B,303.63,Conglomerate,Conglomerate
+3/13/2023,Berkshire Hathaway,BRK.B,302.88,Conglomerate,Conglomerate
+3/14/2023,Berkshire Hathaway,BRK.B,305.33,Conglomerate,Conglomerate
+3/15/2023,Berkshire Hathaway,BRK.B,297.88,Conglomerate,Conglomerate
+3/16/2023,Berkshire Hathaway,BRK.B,302.01,Conglomerate,Conglomerate
+3/17/2023,Berkshire Hathaway,BRK.B,293.51,Conglomerate,Conglomerate
+3/20/2023,Berkshire Hathaway,BRK.B,301.06,Conglomerate,Conglomerate
+3/21/2023,Berkshire Hathaway,BRK.B,303.85,Conglomerate,Conglomerate
+3/22/2023,Berkshire Hathaway,BRK.B,299.73,Conglomerate,Conglomerate
+3/23/2023,Berkshire Hathaway,BRK.B,298.37,Conglomerate,Conglomerate
+3/24/2023,Berkshire Hathaway,BRK.B,298.92,Conglomerate,Conglomerate
+3/27/2023,Berkshire Hathaway,BRK.B,302.14,Conglomerate,Conglomerate
+3/28/2023,Berkshire Hathaway,BRK.B,302.32,Conglomerate,Conglomerate
+3/29/2023,Berkshire Hathaway,BRK.B,305.3,Conglomerate,Conglomerate
+3/30/2023,Berkshire Hathaway,BRK.B,305.08,Conglomerate,Conglomerate
+3/31/2023,Berkshire Hathaway,BRK.B,308.77,Conglomerate,Conglomerate
+4/3/2023,Berkshire Hathaway,BRK.B,310.31,Conglomerate,Conglomerate
+4/4/2023,Berkshire Hathaway,BRK.B,309.07,Conglomerate,Conglomerate
+4/5/2023,Berkshire Hathaway,BRK.B,310.39,Conglomerate,Conglomerate
+4/6/2023,Berkshire Hathaway,BRK.B,312.51,Conglomerate,Conglomerate
+4/10/2023,Berkshire Hathaway,BRK.B,312.62,Conglomerate,Conglomerate
+4/11/2023,Berkshire Hathaway,BRK.B,313.7,Conglomerate,Conglomerate
+4/12/2023,Berkshire Hathaway,BRK.B,314.55,Conglomerate,Conglomerate
+4/13/2023,Berkshire Hathaway,BRK.B,318.05,Conglomerate,Conglomerate
+4/14/2023,Berkshire Hathaway,BRK.B,319.74,Conglomerate,Conglomerate
+4/17/2023,Berkshire Hathaway,BRK.B,323.79,Conglomerate,Conglomerate
+4/18/2023,Berkshire Hathaway,BRK.B,324.63,Conglomerate,Conglomerate
+4/19/2023,Berkshire Hathaway,BRK.B,323.09,Conglomerate,Conglomerate
+4/20/2023,Berkshire Hathaway,BRK.B,323.82,Conglomerate,Conglomerate
+4/21/2023,Berkshire Hathaway,BRK.B,324.33,Conglomerate,Conglomerate
+4/24/2023,Berkshire Hathaway,BRK.B,326.05,Conglomerate,Conglomerate
+4/25/2023,Berkshire Hathaway,BRK.B,324.34,Conglomerate,Conglomerate
+4/26/2023,Berkshire Hathaway,BRK.B,320.53,Conglomerate,Conglomerate
+4/27/2023,Berkshire Hathaway,BRK.B,326.23,Conglomerate,Conglomerate
+4/28/2023,Berkshire Hathaway,BRK.B,328.55,Conglomerate,Conglomerate
+5/1/2023,Berkshire Hathaway,BRK.B,330.17,Conglomerate,Conglomerate
+5/2/2023,Berkshire Hathaway,BRK.B,325.86,Conglomerate,Conglomerate
+5/3/2023,Berkshire Hathaway,BRK.B,323.22,Conglomerate,Conglomerate
+5/4/2023,Berkshire Hathaway,BRK.B,320,Conglomerate,Conglomerate
+5/5/2023,Berkshire Hathaway,BRK.B,323.88,Conglomerate,Conglomerate
+5/8/2023,Berkshire Hathaway,BRK.B,326.14,Conglomerate,Conglomerate
+5/9/2023,Berkshire Hathaway,BRK.B,324.87,Conglomerate,Conglomerate
+5/10/2023,Berkshire Hathaway,BRK.B,322.99,Conglomerate,Conglomerate
+5/11/2023,Berkshire Hathaway,BRK.B,322.64,Conglomerate,Conglomerate
+5/12/2023,Berkshire Hathaway,BRK.B,322.49,Conglomerate,Conglomerate
+5/15/2023,Berkshire Hathaway,BRK.B,323.53,Conglomerate,Conglomerate
+5/16/2023,Berkshire Hathaway,BRK.B,323.75,Conglomerate,Conglomerate
+5/17/2023,Berkshire Hathaway,BRK.B,327.39,Conglomerate,Conglomerate
+5/18/2023,Berkshire Hathaway,BRK.B,329.76,Conglomerate,Conglomerate
+5/19/2023,Berkshire Hathaway,BRK.B,330.39,Conglomerate,Conglomerate
+5/22/2023,Berkshire Hathaway,BRK.B,329.13,Conglomerate,Conglomerate
+5/23/2023,Berkshire Hathaway,BRK.B,323.11,Conglomerate,Conglomerate
+5/24/2023,Berkshire Hathaway,BRK.B,320.2,Conglomerate,Conglomerate
+5/25/2023,Berkshire Hathaway,BRK.B,319.02,Conglomerate,Conglomerate
+5/26/2023,Berkshire Hathaway,BRK.B,320.6,Conglomerate,Conglomerate
+5/30/2023,Berkshire Hathaway,BRK.B,322.19,Conglomerate,Conglomerate
+5/31/2023,Berkshire Hathaway,BRK.B,321.08,Conglomerate,Conglomerate
+6/1/2023,Berkshire Hathaway,BRK.B,323.12,Conglomerate,Conglomerate
+6/2/2023,Berkshire Hathaway,BRK.B,329.48,Conglomerate,Conglomerate
+6/5/2023,Berkshire Hathaway,BRK.B,328.58,Conglomerate,Conglomerate
+6/6/2023,Berkshire Hathaway,BRK.B,333.41,Conglomerate,Conglomerate
+6/7/2023,Berkshire Hathaway,BRK.B,335.42,Conglomerate,Conglomerate
+6/8/2023,Berkshire Hathaway,BRK.B,335.95,Conglomerate,Conglomerate
+6/9/2023,Berkshire Hathaway,BRK.B,335.29,Conglomerate,Conglomerate
+6/12/2023,Berkshire Hathaway,BRK.B,333.6,Conglomerate,Conglomerate
+6/13/2023,Berkshire Hathaway,BRK.B,336.39,Conglomerate,Conglomerate
+6/14/2023,Berkshire Hathaway,BRK.B,335.9,Conglomerate,Conglomerate
+6/15/2023,Berkshire Hathaway,BRK.B,339.82,Conglomerate,Conglomerate
+6/16/2023,Berkshire Hathaway,BRK.B,338.31,Conglomerate,Conglomerate
+6/20/2023,Berkshire Hathaway,BRK.B,338.67,Conglomerate,Conglomerate
+6/21/2023,Berkshire Hathaway,BRK.B,338.61,Conglomerate,Conglomerate
+6/22/2023,Berkshire Hathaway,BRK.B,336.96,Conglomerate,Conglomerate
+6/23/2023,Berkshire Hathaway,BRK.B,335.25,Conglomerate,Conglomerate
+6/26/2023,Berkshire Hathaway,BRK.B,334.12,Conglomerate,Conglomerate
+6/27/2023,Berkshire Hathaway,BRK.B,335.34,Conglomerate,Conglomerate
+6/28/2023,Berkshire Hathaway,BRK.B,334.15,Conglomerate,Conglomerate
+6/29/2023,Berkshire Hathaway,BRK.B,336.91,Conglomerate,Conglomerate
+6/30/2023,Berkshire Hathaway,BRK.B,341,Conglomerate,Conglomerate
+7/3/2023,Berkshire Hathaway,BRK.B,342,Conglomerate,Conglomerate
+7/5/2023,Berkshire Hathaway,BRK.B,341.56,Conglomerate,Conglomerate
+7/6/2023,Berkshire Hathaway,BRK.B,341.46,Conglomerate,Conglomerate
+7/7/2023,Berkshire Hathaway,BRK.B,340.9,Conglomerate,Conglomerate
+7/10/2023,Berkshire Hathaway,BRK.B,341.13,Conglomerate,Conglomerate
+7/11/2023,Berkshire Hathaway,BRK.B,343.37,Conglomerate,Conglomerate
+7/12/2023,Berkshire Hathaway,BRK.B,345.35,Conglomerate,Conglomerate
+7/13/2023,Berkshire Hathaway,BRK.B,343.54,Conglomerate,Conglomerate
+7/14/2023,Berkshire Hathaway,BRK.B,341.09,Conglomerate,Conglomerate
+7/17/2023,Berkshire Hathaway,BRK.B,344.25,Conglomerate,Conglomerate
+7/18/2023,Berkshire Hathaway,BRK.B,345.34,Conglomerate,Conglomerate
+7/19/2023,Berkshire Hathaway,BRK.B,342.43,Conglomerate,Conglomerate
+7/20/2023,Berkshire Hathaway,BRK.B,346.61,Conglomerate,Conglomerate
+7/21/2023,Berkshire Hathaway,BRK.B,345.76,Conglomerate,Conglomerate
+7/24/2023,Berkshire Hathaway,BRK.B,349.63,Conglomerate,Conglomerate
+7/25/2023,Berkshire Hathaway,BRK.B,347.58,Conglomerate,Conglomerate
+7/26/2023,Berkshire Hathaway,BRK.B,349.8,Conglomerate,Conglomerate
+7/27/2023,Berkshire Hathaway,BRK.B,349.31,Conglomerate,Conglomerate
+7/28/2023,Berkshire Hathaway,BRK.B,349.81,Conglomerate,Conglomerate
+7/31/2023,Berkshire Hathaway,BRK.B,351.96,Conglomerate,Conglomerate
+2/1/2023,Unitedhealth Group,UNH,497,Medical Specialities,Health Care
+2/2/2023,Unitedhealth Group,UNH,470.83,Medical Specialities,Health Care
+2/3/2023,Unitedhealth Group,UNH,472.02,Medical Specialities,Health Care
+2/6/2023,Unitedhealth Group,UNH,475.24,Medical Specialities,Health Care
+2/7/2023,Unitedhealth Group,UNH,476.88,Medical Specialities,Health Care
+2/8/2023,Unitedhealth Group,UNH,483.22,Medical Specialities,Health Care
+2/9/2023,Unitedhealth Group,UNH,485.73,Medical Specialities,Health Care
+2/10/2023,Unitedhealth Group,UNH,494.25,Medical Specialities,Health Care
+2/13/2023,Unitedhealth Group,UNH,495.35,Medical Specialities,Health Care
+2/14/2023,Unitedhealth Group,UNH,492.83,Medical Specialities,Health Care
+2/15/2023,Unitedhealth Group,UNH,491.25,Medical Specialities,Health Care
+2/16/2023,Unitedhealth Group,UNH,487.35,Medical Specialities,Health Care
+2/17/2023,Unitedhealth Group,UNH,499.08,Medical Specialities,Health Care
+2/21/2023,Unitedhealth Group,UNH,491.31,Medical Specialities,Health Care
+2/22/2023,Unitedhealth Group,UNH,488.89,Medical Specialities,Health Care
+2/23/2023,Unitedhealth Group,UNH,491.69,Medical Specialities,Health Care
+2/24/2023,Unitedhealth Group,UNH,484.33,Medical Specialities,Health Care
+2/27/2023,Unitedhealth Group,UNH,483.32,Medical Specialities,Health Care
+2/28/2023,Unitedhealth Group,UNH,475.94,Medical Specialities,Health Care
+3/1/2023,Unitedhealth Group,UNH,475.22,Medical Specialities,Health Care
+3/2/2023,Unitedhealth Group,UNH,477.7,Medical Specialities,Health Care
+3/3/2023,Unitedhealth Group,UNH,478.56,Medical Specialities,Health Care
+3/6/2023,Unitedhealth Group,UNH,480.78,Medical Specialities,Health Care
+3/7/2023,Unitedhealth Group,UNH,473.88,Medical Specialities,Health Care
+3/8/2023,Unitedhealth Group,UNH,470.6,Medical Specialities,Health Care
+3/9/2023,Unitedhealth Group,UNH,464.91,Medical Specialities,Health Care
+3/10/2023,Unitedhealth Group,UNH,460.33,Medical Specialities,Health Care
+3/13/2023,Unitedhealth Group,UNH,463.68,Medical Specialities,Health Care
+3/14/2023,Unitedhealth Group,UNH,464.58,Medical Specialities,Health Care
+3/15/2023,Unitedhealth Group,UNH,465.43,Medical Specialities,Health Care
+3/16/2023,Unitedhealth Group,UNH,472.02,Medical Specialities,Health Care
+3/17/2023,Unitedhealth Group,UNH,469.5,Medical Specialities,Health Care
+3/20/2023,Unitedhealth Group,UNH,476.96,Medical Specialities,Health Care
+3/21/2023,Unitedhealth Group,UNH,480.1,Medical Specialities,Health Care
+3/22/2023,Unitedhealth Group,UNH,475.52,Medical Specialities,Health Care
+3/23/2023,Unitedhealth Group,UNH,469.91,Medical Specialities,Health Care
+3/24/2023,Unitedhealth Group,UNH,475.99,Medical Specialities,Health Care
+3/27/2023,Unitedhealth Group,UNH,481.9,Medical Specialities,Health Care
+3/28/2023,Unitedhealth Group,UNH,472.58,Medical Specialities,Health Care
+3/29/2023,Unitedhealth Group,UNH,466.59,Medical Specialities,Health Care
+3/30/2023,Unitedhealth Group,UNH,470.06,Medical Specialities,Health Care
+3/31/2023,Unitedhealth Group,UNH,472.59,Medical Specialities,Health Care
+4/3/2023,Unitedhealth Group,UNH,494.19,Medical Specialities,Health Care
+4/4/2023,Unitedhealth Group,UNH,493.25,Medical Specialities,Health Care
+4/5/2023,Unitedhealth Group,UNH,509.23,Medical Specialities,Health Care
+4/6/2023,Unitedhealth Group,UNH,512.81,Medical Specialities,Health Care
+4/10/2023,Unitedhealth Group,UNH,515.18,Medical Specialities,Health Care
+4/11/2023,Unitedhealth Group,UNH,520.97,Medical Specialities,Health Care
+4/12/2023,Unitedhealth Group,UNH,521.19,Medical Specialities,Health Care
+4/13/2023,Unitedhealth Group,UNH,526.23,Medical Specialities,Health Care
+4/14/2023,Unitedhealth Group,UNH,511.79,Medical Specialities,Health Care
+4/17/2023,Unitedhealth Group,UNH,505.35,Medical Specialities,Health Care
+4/18/2023,Unitedhealth Group,UNH,504.48,Medical Specialities,Health Care
+4/19/2023,Unitedhealth Group,UNH,486.2,Medical Specialities,Health Care
+4/20/2023,Unitedhealth Group,UNH,487.46,Medical Specialities,Health Care
+4/21/2023,Unitedhealth Group,UNH,483.82,Medical Specialities,Health Care
+4/24/2023,Unitedhealth Group,UNH,488.94,Medical Specialities,Health Care
+4/25/2023,Unitedhealth Group,UNH,491.92,Medical Specialities,Health Care
+4/26/2023,Unitedhealth Group,UNH,482.95,Medical Specialities,Health Care
+4/27/2023,Unitedhealth Group,UNH,490.47,Medical Specialities,Health Care
+4/28/2023,Unitedhealth Group,UNH,492.09,Medical Specialities,Health Care
+5/1/2023,Unitedhealth Group,UNH,495.7,Medical Specialities,Health Care
+5/2/2023,Unitedhealth Group,UNH,493.39,Medical Specialities,Health Care
+5/3/2023,Unitedhealth Group,UNH,489.44,Medical Specialities,Health Care
+5/4/2023,Unitedhealth Group,UNH,487.28,Medical Specialities,Health Care
+5/5/2023,Unitedhealth Group,UNH,494.28,Medical Specialities,Health Care
+5/8/2023,Unitedhealth Group,UNH,492.62,Medical Specialities,Health Care
+5/9/2023,Unitedhealth Group,UNH,490.38,Medical Specialities,Health Care
+5/10/2023,Unitedhealth Group,UNH,490.07,Medical Specialities,Health Care
+5/11/2023,Unitedhealth Group,UNH,488.76,Medical Specialities,Health Care
+5/12/2023,Unitedhealth Group,UNH,491.23,Medical Specialities,Health Care
+5/15/2023,Unitedhealth Group,UNH,486.86,Medical Specialities,Health Care
+5/16/2023,Unitedhealth Group,UNH,479.72,Medical Specialities,Health Care
+5/17/2023,Unitedhealth Group,UNH,484.81,Medical Specialities,Health Care
+5/18/2023,Unitedhealth Group,UNH,479.23,Medical Specialities,Health Care
+5/19/2023,Unitedhealth Group,UNH,478.82,Medical Specialities,Health Care
+5/22/2023,Unitedhealth Group,UNH,480.62,Medical Specialities,Health Care
+5/23/2023,Unitedhealth Group,UNH,479.44,Medical Specialities,Health Care
+5/24/2023,Unitedhealth Group,UNH,480.83,Medical Specialities,Health Care
+5/25/2023,Unitedhealth Group,UNH,477.7,Medical Specialities,Health Care
+5/26/2023,Unitedhealth Group,UNH,481.52,Medical Specialities,Health Care
+5/30/2023,Unitedhealth Group,UNH,479.85,Medical Specialities,Health Care
+5/31/2023,Unitedhealth Group,UNH,487.24,Medical Specialities,Health Care
+6/1/2023,Unitedhealth Group,UNH,493.63,Medical Specialities,Health Care
+6/2/2023,Unitedhealth Group,UNH,499.58,Medical Specialities,Health Care
+6/5/2023,Unitedhealth Group,UNH,498.19,Medical Specialities,Health Care
+6/6/2023,Unitedhealth Group,UNH,487.57,Medical Specialities,Health Care
+6/7/2023,Unitedhealth Group,UNH,482.13,Medical Specialities,Health Care
+6/8/2023,Unitedhealth Group,UNH,490.23,Medical Specialities,Health Care
+6/9/2023,Unitedhealth Group,UNH,493.62,Medical Specialities,Health Care
+6/12/2023,Unitedhealth Group,UNH,492.59,Medical Specialities,Health Care
+6/13/2023,Unitedhealth Group,UNH,491.31,Medical Specialities,Health Care
+6/14/2023,Unitedhealth Group,UNH,459.86,Medical Specialities,Health Care
+6/15/2023,Unitedhealth Group,UNH,465.89,Medical Specialities,Health Care
+6/16/2023,Unitedhealth Group,UNH,458.49,Medical Specialities,Health Care
+6/20/2023,Unitedhealth Group,UNH,469.39,Medical Specialities,Health Care
+6/21/2023,Unitedhealth Group,UNH,476.75,Medical Specialities,Health Care
+6/22/2023,Unitedhealth Group,UNH,479.05,Medical Specialities,Health Care
+6/23/2023,Unitedhealth Group,UNH,477,Medical Specialities,Health Care
+6/26/2023,Unitedhealth Group,UNH,479.06,Medical Specialities,Health Care
+6/27/2023,Unitedhealth Group,UNH,482.56,Medical Specialities,Health Care
+6/28/2023,Unitedhealth Group,UNH,474.45,Medical Specialities,Health Care
+6/29/2023,Unitedhealth Group,UNH,476.44,Medical Specialities,Health Care
+6/30/2023,Unitedhealth Group,UNH,480.64,Medical Specialities,Health Care
+7/3/2023,Unitedhealth Group,UNH,477.88,Medical Specialities,Health Care
+7/5/2023,Unitedhealth Group,UNH,471.22,Medical Specialities,Health Care
+7/6/2023,Unitedhealth Group,UNH,469.36,Medical Specialities,Health Care
+7/7/2023,Unitedhealth Group,UNH,461.58,Medical Specialities,Health Care
+7/10/2023,Unitedhealth Group,UNH,463.05,Medical Specialities,Health Care
+7/11/2023,Unitedhealth Group,UNH,462.89,Medical Specialities,Health Care
+7/12/2023,Unitedhealth Group,UNH,451.7,Medical Specialities,Health Care
+7/13/2023,Unitedhealth Group,UNH,447.75,Medical Specialities,Health Care
+7/14/2023,Unitedhealth Group,UNH,480.17,Medical Specialities,Health Care
+7/17/2023,Unitedhealth Group,UNH,484.08,Medical Specialities,Health Care
+7/18/2023,Unitedhealth Group,UNH,500,Medical Specialities,Health Care
+7/19/2023,Unitedhealth Group,UNH,503.7,Medical Specialities,Health Care
+7/20/2023,Unitedhealth Group,UNH,504.24,Medical Specialities,Health Care
+7/21/2023,Unitedhealth Group,UNH,506.53,Medical Specialities,Health Care
+7/24/2023,Unitedhealth Group,UNH,508.68,Medical Specialities,Health Care
+7/25/2023,Unitedhealth Group,UNH,510.93,Medical Specialities,Health Care
+7/26/2023,Unitedhealth Group,UNH,508,Medical Specialities,Health Care
+7/27/2023,Unitedhealth Group,UNH,505.23,Medical Specialities,Health Care
+7/28/2023,Unitedhealth Group,UNH,502.91,Medical Specialities,Health Care
+7/31/2023,Unitedhealth Group,UNH,506.37,Medical Specialities,Health Care
+2/1/2023,Jpmorgan Chase & Co,JPM,139.59,Major Banks,Finance
+2/2/2023,Jpmorgan Chase & Co,JPM,138.94,Major Banks,Finance
+2/3/2023,Jpmorgan Chase & Co,JPM,141.09,Major Banks,Finance
+2/6/2023,Jpmorgan Chase & Co,JPM,141.92,Major Banks,Finance
+2/7/2023,Jpmorgan Chase & Co,JPM,143.65,Major Banks,Finance
+2/8/2023,Jpmorgan Chase & Co,JPM,142.64,Major Banks,Finance
+2/9/2023,Jpmorgan Chase & Co,JPM,140.42,Major Banks,Finance
+2/10/2023,Jpmorgan Chase & Co,JPM,141.04,Major Banks,Finance
+2/13/2023,Jpmorgan Chase & Co,JPM,142.57,Major Banks,Finance
+2/14/2023,Jpmorgan Chase & Co,JPM,143.2,Major Banks,Finance
+2/15/2023,Jpmorgan Chase & Co,JPM,143.8,Major Banks,Finance
+2/16/2023,Jpmorgan Chase & Co,JPM,141.82,Major Banks,Finance
+2/17/2023,Jpmorgan Chase & Co,JPM,142.24,Major Banks,Finance
+2/21/2023,Jpmorgan Chase & Co,JPM,139.63,Major Banks,Finance
+2/22/2023,Jpmorgan Chase & Co,JPM,138.56,Major Banks,Finance
+2/23/2023,Jpmorgan Chase & Co,JPM,139.67,Major Banks,Finance
+2/24/2023,Jpmorgan Chase & Co,JPM,140.93,Major Banks,Finance
+2/27/2023,Jpmorgan Chase & Co,JPM,142.16,Major Banks,Finance
+2/28/2023,Jpmorgan Chase & Co,JPM,143.35,Major Banks,Finance
+3/1/2023,Jpmorgan Chase & Co,JPM,142.55,Major Banks,Finance
+3/2/2023,Jpmorgan Chase & Co,JPM,141.07,Major Banks,Finance
+3/3/2023,Jpmorgan Chase & Co,JPM,143.66,Major Banks,Finance
+3/6/2023,Jpmorgan Chase & Co,JPM,142.82,Major Banks,Finance
+3/7/2023,Jpmorgan Chase & Co,JPM,138.62,Major Banks,Finance
+3/8/2023,Jpmorgan Chase & Co,JPM,137.8,Major Banks,Finance
+3/9/2023,Jpmorgan Chase & Co,JPM,130.34,Major Banks,Finance
+3/10/2023,Jpmorgan Chase & Co,JPM,133.65,Major Banks,Finance
+3/13/2023,Jpmorgan Chase & Co,JPM,131.25,Major Banks,Finance
+3/14/2023,Jpmorgan Chase & Co,JPM,134.62,Major Banks,Finance
+3/15/2023,Jpmorgan Chase & Co,JPM,128.26,Major Banks,Finance
+3/16/2023,Jpmorgan Chase & Co,JPM,130.75,Major Banks,Finance
+3/17/2023,Jpmorgan Chase & Co,JPM,125.81,Major Banks,Finance
+3/20/2023,Jpmorgan Chase & Co,JPM,127.14,Major Banks,Finance
+3/21/2023,Jpmorgan Chase & Co,JPM,130.55,Major Banks,Finance
+3/22/2023,Jpmorgan Chase & Co,JPM,127.18,Major Banks,Finance
+3/23/2023,Jpmorgan Chase & Co,JPM,126.84,Major Banks,Finance
+3/24/2023,Jpmorgan Chase & Co,JPM,124.91,Major Banks,Finance
+3/27/2023,Jpmorgan Chase & Co,JPM,128.49,Major Banks,Finance
+3/28/2023,Jpmorgan Chase & Co,JPM,128.88,Major Banks,Finance
+3/29/2023,Jpmorgan Chase & Co,JPM,129.14,Major Banks,Finance
+3/30/2023,Jpmorgan Chase & Co,JPM,128.75,Major Banks,Finance
+3/31/2023,Jpmorgan Chase & Co,JPM,130.31,Major Banks,Finance
+4/3/2023,Jpmorgan Chase & Co,JPM,130.16,Major Banks,Finance
+4/4/2023,Jpmorgan Chase & Co,JPM,128.42,Major Banks,Finance
+4/5/2023,Jpmorgan Chase & Co,JPM,127.61,Major Banks,Finance
+4/6/2023,Jpmorgan Chase & Co,JPM,127.47,Major Banks,Finance
+4/10/2023,Jpmorgan Chase & Co,JPM,127.89,Major Banks,Finance
+4/11/2023,Jpmorgan Chase & Co,JPM,128.52,Major Banks,Finance
+4/12/2023,Jpmorgan Chase & Co,JPM,128.5,Major Banks,Finance
+4/13/2023,Jpmorgan Chase & Co,JPM,128.99,Major Banks,Finance
+4/14/2023,Jpmorgan Chase & Co,JPM,138.73,Major Banks,Finance
+4/17/2023,Jpmorgan Chase & Co,JPM,139.83,Major Banks,Finance
+4/18/2023,Jpmorgan Chase & Co,JPM,141.4,Major Banks,Finance
+4/19/2023,Jpmorgan Chase & Co,JPM,141.22,Major Banks,Finance
+4/20/2023,Jpmorgan Chase & Co,JPM,140.81,Major Banks,Finance
+4/21/2023,Jpmorgan Chase & Co,JPM,140.54,Major Banks,Finance
+4/24/2023,Jpmorgan Chase & Co,JPM,140.73,Major Banks,Finance
+4/25/2023,Jpmorgan Chase & Co,JPM,137.67,Major Banks,Finance
+4/26/2023,Jpmorgan Chase & Co,JPM,135.23,Major Banks,Finance
+4/27/2023,Jpmorgan Chase & Co,JPM,137.05,Major Banks,Finance
+4/28/2023,Jpmorgan Chase & Co,JPM,138.24,Major Banks,Finance
+5/1/2023,Jpmorgan Chase & Co,JPM,141.2,Major Banks,Finance
+5/2/2023,Jpmorgan Chase & Co,JPM,138.92,Major Banks,Finance
+5/3/2023,Jpmorgan Chase & Co,JPM,135.98,Major Banks,Finance
+5/4/2023,Jpmorgan Chase & Co,JPM,134.12,Major Banks,Finance
+5/5/2023,Jpmorgan Chase & Co,JPM,136.74,Major Banks,Finance
+5/8/2023,Jpmorgan Chase & Co,JPM,137.07,Major Banks,Finance
+5/9/2023,Jpmorgan Chase & Co,JPM,136.41,Major Banks,Finance
+5/10/2023,Jpmorgan Chase & Co,JPM,136.48,Major Banks,Finance
+5/11/2023,Jpmorgan Chase & Co,JPM,136.05,Major Banks,Finance
+5/12/2023,Jpmorgan Chase & Co,JPM,134.1,Major Banks,Finance
+5/15/2023,Jpmorgan Chase & Co,JPM,135.23,Major Banks,Finance
+5/16/2023,Jpmorgan Chase & Co,JPM,134.32,Major Banks,Finance
+5/17/2023,Jpmorgan Chase & Co,JPM,138.45,Major Banks,Finance
+5/18/2023,Jpmorgan Chase & Co,JPM,139.5,Major Banks,Finance
+5/19/2023,Jpmorgan Chase & Co,JPM,139.18,Major Banks,Finance
+5/22/2023,Jpmorgan Chase & Co,JPM,138.03,Major Banks,Finance
+5/23/2023,Jpmorgan Chase & Co,JPM,136.59,Major Banks,Finance
+5/24/2023,Jpmorgan Chase & Co,JPM,135.34,Major Banks,Finance
+5/25/2023,Jpmorgan Chase & Co,JPM,135.67,Major Banks,Finance
+5/26/2023,Jpmorgan Chase & Co,JPM,136.94,Major Banks,Finance
+5/30/2023,Jpmorgan Chase & Co,JPM,137.46,Major Banks,Finance
+5/31/2023,Jpmorgan Chase & Co,JPM,135.71,Major Banks,Finance
+6/1/2023,Jpmorgan Chase & Co,JPM,137.58,Major Banks,Finance
+6/2/2023,Jpmorgan Chase & Co,JPM,140.47,Major Banks,Finance
+6/5/2023,Jpmorgan Chase & Co,JPM,139.09,Major Banks,Finance
+6/6/2023,Jpmorgan Chase & Co,JPM,139.34,Major Banks,Finance
+6/7/2023,Jpmorgan Chase & Co,JPM,140.69,Major Banks,Finance
+6/8/2023,Jpmorgan Chase & Co,JPM,140.73,Major Banks,Finance
+6/9/2023,Jpmorgan Chase & Co,JPM,141.01,Major Banks,Finance
+6/12/2023,Jpmorgan Chase & Co,JPM,141,Major Banks,Finance
+6/13/2023,Jpmorgan Chase & Co,JPM,142.02,Major Banks,Finance
+6/14/2023,Jpmorgan Chase & Co,JPM,141.49,Major Banks,Finance
+6/15/2023,Jpmorgan Chase & Co,JPM,143.09,Major Banks,Finance
+6/16/2023,Jpmorgan Chase & Co,JPM,143.26,Major Banks,Finance
+6/20/2023,Jpmorgan Chase & Co,JPM,142.53,Major Banks,Finance
+6/21/2023,Jpmorgan Chase & Co,JPM,142.32,Major Banks,Finance
+6/22/2023,Jpmorgan Chase & Co,JPM,139.58,Major Banks,Finance
+6/23/2023,Jpmorgan Chase & Co,JPM,138.85,Major Banks,Finance
+6/26/2023,Jpmorgan Chase & Co,JPM,139.19,Major Banks,Finance
+6/27/2023,Jpmorgan Chase & Co,JPM,139.2,Major Banks,Finance
+6/28/2023,Jpmorgan Chase & Co,JPM,138.59,Major Banks,Finance
+6/29/2023,Jpmorgan Chase & Co,JPM,143.43,Major Banks,Finance
+6/30/2023,Jpmorgan Chase & Co,JPM,145.44,Major Banks,Finance
+7/3/2023,Jpmorgan Chase & Co,JPM,146.61,Major Banks,Finance
+7/5/2023,Jpmorgan Chase & Co,JPM,144.64,Major Banks,Finance
+7/6/2023,Jpmorgan Chase & Co,JPM,143.21,Major Banks,Finance
+7/7/2023,Jpmorgan Chase & Co,JPM,144.34,Major Banks,Finance
+7/10/2023,Jpmorgan Chase & Co,JPM,145.15,Major Banks,Finance
+7/11/2023,Jpmorgan Chase & Co,JPM,147.42,Major Banks,Finance
+7/12/2023,Jpmorgan Chase & Co,JPM,148.15,Major Banks,Finance
+7/13/2023,Jpmorgan Chase & Co,JPM,148.87,Major Banks,Finance
+7/14/2023,Jpmorgan Chase & Co,JPM,149.77,Major Banks,Finance
+7/17/2023,Jpmorgan Chase & Co,JPM,153.38,Major Banks,Finance
+7/18/2023,Jpmorgan Chase & Co,JPM,153.66,Major Banks,Finance
+7/19/2023,Jpmorgan Chase & Co,JPM,154.25,Major Banks,Finance
+7/20/2023,Jpmorgan Chase & Co,JPM,156.15,Major Banks,Finance
+7/21/2023,Jpmorgan Chase & Co,JPM,154.95,Major Banks,Finance
+7/24/2023,Jpmorgan Chase & Co,JPM,158,Major Banks,Finance
+7/25/2023,Jpmorgan Chase & Co,JPM,156.82,Major Banks,Finance
+7/26/2023,Jpmorgan Chase & Co,JPM,157.76,Major Banks,Finance
+7/27/2023,Jpmorgan Chase & Co,JPM,156.02,Major Banks,Finance
+7/28/2023,Jpmorgan Chase & Co,JPM,156.91,Major Banks,Finance
+7/31/2023,Jpmorgan Chase & Co,JPM,157.96,Major Banks,Finance
+2/1/2023,Johnson & Johnson,JNJ,164.92,Biotechnology: Pharmaceutical Preparations,Health Care
+2/2/2023,Johnson & Johnson,JNJ,165.54,Biotechnology: Pharmaceutical Preparations,Health Care
+2/3/2023,Johnson & Johnson,JNJ,164.61,Biotechnology: Pharmaceutical Preparations,Health Care
+2/6/2023,Johnson & Johnson,JNJ,163.36,Biotechnology: Pharmaceutical Preparations,Health Care
+2/7/2023,Johnson & Johnson,JNJ,163.4,Biotechnology: Pharmaceutical Preparations,Health Care
+2/8/2023,Johnson & Johnson,JNJ,163.61,Biotechnology: Pharmaceutical Preparations,Health Care
+2/9/2023,Johnson & Johnson,JNJ,161.4,Biotechnology: Pharmaceutical Preparations,Health Care
+2/10/2023,Johnson & Johnson,JNJ,162.15,Biotechnology: Pharmaceutical Preparations,Health Care
+2/13/2023,Johnson & Johnson,JNJ,162.75,Biotechnology: Pharmaceutical Preparations,Health Care
+2/14/2023,Johnson & Johnson,JNJ,162.04,Biotechnology: Pharmaceutical Preparations,Health Care
+2/15/2023,Johnson & Johnson,JNJ,159.37,Biotechnology: Pharmaceutical Preparations,Health Care
+2/16/2023,Johnson & Johnson,JNJ,158.24,Biotechnology: Pharmaceutical Preparations,Health Care
+2/17/2023,Johnson & Johnson,JNJ,160.39,Biotechnology: Pharmaceutical Preparations,Health Care
+2/21/2023,Johnson & Johnson,JNJ,158,Biotechnology: Pharmaceutical Preparations,Health Care
+2/22/2023,Johnson & Johnson,JNJ,157.78,Biotechnology: Pharmaceutical Preparations,Health Care
+2/23/2023,Johnson & Johnson,JNJ,157.73,Biotechnology: Pharmaceutical Preparations,Health Care
+2/24/2023,Johnson & Johnson,JNJ,155.97,Biotechnology: Pharmaceutical Preparations,Health Care
+2/27/2023,Johnson & Johnson,JNJ,155.63,Biotechnology: Pharmaceutical Preparations,Health Care
+2/28/2023,Johnson & Johnson,JNJ,153.26,Biotechnology: Pharmaceutical Preparations,Health Care
+3/1/2023,Johnson & Johnson,JNJ,152.57,Biotechnology: Pharmaceutical Preparations,Health Care
+3/2/2023,Johnson & Johnson,JNJ,152.45,Biotechnology: Pharmaceutical Preparations,Health Care
+3/3/2023,Johnson & Johnson,JNJ,154.02,Biotechnology: Pharmaceutical Preparations,Health Care
+3/6/2023,Johnson & Johnson,JNJ,155.56,Biotechnology: Pharmaceutical Preparations,Health Care
+3/7/2023,Johnson & Johnson,JNJ,154.09,Biotechnology: Pharmaceutical Preparations,Health Care
+3/8/2023,Johnson & Johnson,JNJ,152.96,Biotechnology: Pharmaceutical Preparations,Health Care
+3/9/2023,Johnson & Johnson,JNJ,151.24,Biotechnology: Pharmaceutical Preparations,Health Care
+3/10/2023,Johnson & Johnson,JNJ,151.61,Biotechnology: Pharmaceutical Preparations,Health Care
+3/13/2023,Johnson & Johnson,JNJ,153.06,Biotechnology: Pharmaceutical Preparations,Health Care
+3/14/2023,Johnson & Johnson,JNJ,153.92,Biotechnology: Pharmaceutical Preparations,Health Care
+3/15/2023,Johnson & Johnson,JNJ,154.35,Biotechnology: Pharmaceutical Preparations,Health Care
+3/16/2023,Johnson & Johnson,JNJ,154.03,Biotechnology: Pharmaceutical Preparations,Health Care
+3/17/2023,Johnson & Johnson,JNJ,152.38,Biotechnology: Pharmaceutical Preparations,Health Care
+3/20/2023,Johnson & Johnson,JNJ,153.89,Biotechnology: Pharmaceutical Preparations,Health Care
+3/21/2023,Johnson & Johnson,JNJ,153.89,Biotechnology: Pharmaceutical Preparations,Health Care
+3/22/2023,Johnson & Johnson,JNJ,151.05,Biotechnology: Pharmaceutical Preparations,Health Care
+3/23/2023,Johnson & Johnson,JNJ,151.13,Biotechnology: Pharmaceutical Preparations,Health Care
+3/24/2023,Johnson & Johnson,JNJ,152.65,Biotechnology: Pharmaceutical Preparations,Health Care
+3/27/2023,Johnson & Johnson,JNJ,153.3,Biotechnology: Pharmaceutical Preparations,Health Care
+3/28/2023,Johnson & Johnson,JNJ,151.82,Biotechnology: Pharmaceutical Preparations,Health Care
+3/29/2023,Johnson & Johnson,JNJ,153.31,Biotechnology: Pharmaceutical Preparations,Health Care
+3/30/2023,Johnson & Johnson,JNJ,153.43,Biotechnology: Pharmaceutical Preparations,Health Care
+3/31/2023,Johnson & Johnson,JNJ,155,Biotechnology: Pharmaceutical Preparations,Health Care
+4/3/2023,Johnson & Johnson,JNJ,156.85,Biotechnology: Pharmaceutical Preparations,Health Care
+4/4/2023,Johnson & Johnson,JNJ,158.49,Biotechnology: Pharmaceutical Preparations,Health Care
+4/5/2023,Johnson & Johnson,JNJ,165.61,Biotechnology: Pharmaceutical Preparations,Health Care
+4/6/2023,Johnson & Johnson,JNJ,165.15,Biotechnology: Pharmaceutical Preparations,Health Care
+4/10/2023,Johnson & Johnson,JNJ,164.32,Biotechnology: Pharmaceutical Preparations,Health Care
+4/11/2023,Johnson & Johnson,JNJ,164.27,Biotechnology: Pharmaceutical Preparations,Health Care
+4/12/2023,Johnson & Johnson,JNJ,163.92,Biotechnology: Pharmaceutical Preparations,Health Care
+4/13/2023,Johnson & Johnson,JNJ,166.11,Biotechnology: Pharmaceutical Preparations,Health Care
+4/14/2023,Johnson & Johnson,JNJ,165.84,Biotechnology: Pharmaceutical Preparations,Health Care
+4/17/2023,Johnson & Johnson,JNJ,165.67,Biotechnology: Pharmaceutical Preparations,Health Care
+4/18/2023,Johnson & Johnson,JNJ,161.01,Biotechnology: Pharmaceutical Preparations,Health Care
+4/19/2023,Johnson & Johnson,JNJ,162.53,Biotechnology: Pharmaceutical Preparations,Health Care
+4/20/2023,Johnson & Johnson,JNJ,163.58,Biotechnology: Pharmaceutical Preparations,Health Care
+4/21/2023,Johnson & Johnson,JNJ,162.69,Biotechnology: Pharmaceutical Preparations,Health Care
+4/24/2023,Johnson & Johnson,JNJ,163.68,Biotechnology: Pharmaceutical Preparations,Health Care
+4/25/2023,Johnson & Johnson,JNJ,165.18,Biotechnology: Pharmaceutical Preparations,Health Care
+4/26/2023,Johnson & Johnson,JNJ,162.62,Biotechnology: Pharmaceutical Preparations,Health Care
+4/27/2023,Johnson & Johnson,JNJ,163,Biotechnology: Pharmaceutical Preparations,Health Care
+4/28/2023,Johnson & Johnson,JNJ,163.7,Biotechnology: Pharmaceutical Preparations,Health Care
+5/1/2023,Johnson & Johnson,JNJ,163.6,Biotechnology: Pharmaceutical Preparations,Health Care
+5/2/2023,Johnson & Johnson,JNJ,165.03,Biotechnology: Pharmaceutical Preparations,Health Care
+5/3/2023,Johnson & Johnson,JNJ,162.87,Biotechnology: Pharmaceutical Preparations,Health Care
+5/4/2023,Johnson & Johnson,JNJ,162.13,Biotechnology: Pharmaceutical Preparations,Health Care
+5/5/2023,Johnson & Johnson,JNJ,162.68,Biotechnology: Pharmaceutical Preparations,Health Care
+5/8/2023,Johnson & Johnson,JNJ,162.31,Biotechnology: Pharmaceutical Preparations,Health Care
+5/9/2023,Johnson & Johnson,JNJ,161.05,Biotechnology: Pharmaceutical Preparations,Health Care
+5/10/2023,Johnson & Johnson,JNJ,161.65,Biotechnology: Pharmaceutical Preparations,Health Care
+5/11/2023,Johnson & Johnson,JNJ,160.99,Biotechnology: Pharmaceutical Preparations,Health Care
+5/12/2023,Johnson & Johnson,JNJ,160.78,Biotechnology: Pharmaceutical Preparations,Health Care
+5/15/2023,Johnson & Johnson,JNJ,159.55,Biotechnology: Pharmaceutical Preparations,Health Care
+5/16/2023,Johnson & Johnson,JNJ,159.34,Biotechnology: Pharmaceutical Preparations,Health Care
+5/17/2023,Johnson & Johnson,JNJ,158.99,Biotechnology: Pharmaceutical Preparations,Health Care
+5/18/2023,Johnson & Johnson,JNJ,158.48,Biotechnology: Pharmaceutical Preparations,Health Care
+5/19/2023,Johnson & Johnson,JNJ,158.91,Biotechnology: Pharmaceutical Preparations,Health Care
+5/22/2023,Johnson & Johnson,JNJ,156.87,Biotechnology: Pharmaceutical Preparations,Health Care
+5/23/2023,Johnson & Johnson,JNJ,156.81,Biotechnology: Pharmaceutical Preparations,Health Care
+5/24/2023,Johnson & Johnson,JNJ,156.66,Biotechnology: Pharmaceutical Preparations,Health Care
+5/25/2023,Johnson & Johnson,JNJ,154.41,Biotechnology: Pharmaceutical Preparations,Health Care
+5/26/2023,Johnson & Johnson,JNJ,154.35,Biotechnology: Pharmaceutical Preparations,Health Care
+5/30/2023,Johnson & Johnson,JNJ,154.37,Biotechnology: Pharmaceutical Preparations,Health Care
+5/31/2023,Johnson & Johnson,JNJ,155.06,Biotechnology: Pharmaceutical Preparations,Health Care
+6/1/2023,Johnson & Johnson,JNJ,154.54,Biotechnology: Pharmaceutical Preparations,Health Care
+6/2/2023,Johnson & Johnson,JNJ,156.97,Biotechnology: Pharmaceutical Preparations,Health Care
+6/5/2023,Johnson & Johnson,JNJ,158.32,Biotechnology: Pharmaceutical Preparations,Health Care
+6/6/2023,Johnson & Johnson,JNJ,158.18,Biotechnology: Pharmaceutical Preparations,Health Care
+6/7/2023,Johnson & Johnson,JNJ,158.52,Biotechnology: Pharmaceutical Preparations,Health Care
+6/8/2023,Johnson & Johnson,JNJ,160.26,Biotechnology: Pharmaceutical Preparations,Health Care
+6/9/2023,Johnson & Johnson,JNJ,160.01,Biotechnology: Pharmaceutical Preparations,Health Care
+6/12/2023,Johnson & Johnson,JNJ,159.9,Biotechnology: Pharmaceutical Preparations,Health Care
+6/13/2023,Johnson & Johnson,JNJ,160.74,Biotechnology: Pharmaceutical Preparations,Health Care
+6/14/2023,Johnson & Johnson,JNJ,161.56,Biotechnology: Pharmaceutical Preparations,Health Care
+6/15/2023,Johnson & Johnson,JNJ,163.73,Biotechnology: Pharmaceutical Preparations,Health Care
+6/16/2023,Johnson & Johnson,JNJ,164.23,Biotechnology: Pharmaceutical Preparations,Health Care
+6/20/2023,Johnson & Johnson,JNJ,164.13,Biotechnology: Pharmaceutical Preparations,Health Care
+6/21/2023,Johnson & Johnson,JNJ,163.88,Biotechnology: Pharmaceutical Preparations,Health Care
+6/22/2023,Johnson & Johnson,JNJ,165.62,Biotechnology: Pharmaceutical Preparations,Health Care
+6/23/2023,Johnson & Johnson,JNJ,165.48,Biotechnology: Pharmaceutical Preparations,Health Care
+6/26/2023,Johnson & Johnson,JNJ,163.63,Biotechnology: Pharmaceutical Preparations,Health Care
+6/27/2023,Johnson & Johnson,JNJ,163.29,Biotechnology: Pharmaceutical Preparations,Health Care
+6/28/2023,Johnson & Johnson,JNJ,162.96,Biotechnology: Pharmaceutical Preparations,Health Care
+6/29/2023,Johnson & Johnson,JNJ,164.1,Biotechnology: Pharmaceutical Preparations,Health Care
+6/30/2023,Johnson & Johnson,JNJ,165.52,Biotechnology: Pharmaceutical Preparations,Health Care
+7/3/2023,Johnson & Johnson,JNJ,163.35,Biotechnology: Pharmaceutical Preparations,Health Care
+7/5/2023,Johnson & Johnson,JNJ,162.81,Biotechnology: Pharmaceutical Preparations,Health Care
+7/6/2023,Johnson & Johnson,JNJ,161.6,Biotechnology: Pharmaceutical Preparations,Health Care
+7/7/2023,Johnson & Johnson,JNJ,159.25,Biotechnology: Pharmaceutical Preparations,Health Care
+7/10/2023,Johnson & Johnson,JNJ,159.51,Biotechnology: Pharmaceutical Preparations,Health Care
+7/11/2023,Johnson & Johnson,JNJ,158.63,Biotechnology: Pharmaceutical Preparations,Health Care
+7/12/2023,Johnson & Johnson,JNJ,158.08,Biotechnology: Pharmaceutical Preparations,Health Care
+7/13/2023,Johnson & Johnson,JNJ,158.81,Biotechnology: Pharmaceutical Preparations,Health Care
+7/14/2023,Johnson & Johnson,JNJ,159.87,Biotechnology: Pharmaceutical Preparations,Health Care
+7/17/2023,Johnson & Johnson,JNJ,159.07,Biotechnology: Pharmaceutical Preparations,Health Care
+7/18/2023,Johnson & Johnson,JNJ,159.06,Biotechnology: Pharmaceutical Preparations,Health Care
+7/19/2023,Johnson & Johnson,JNJ,158.74,Biotechnology: Pharmaceutical Preparations,Health Care
+7/20/2023,Johnson & Johnson,JNJ,168.38,Biotechnology: Pharmaceutical Preparations,Health Care
+7/21/2023,Johnson & Johnson,JNJ,170.19,Biotechnology: Pharmaceutical Preparations,Health Care
+7/24/2023,Johnson & Johnson,JNJ,171.08,Biotechnology: Pharmaceutical Preparations,Health Care
+7/25/2023,Johnson & Johnson,JNJ,172.39,Biotechnology: Pharmaceutical Preparations,Health Care
+7/26/2023,Johnson & Johnson,JNJ,172.72,Biotechnology: Pharmaceutical Preparations,Health Care
+7/27/2023,Johnson & Johnson,JNJ,173.69,Biotechnology: Pharmaceutical Preparations,Health Care
+7/28/2023,Johnson & Johnson,JNJ,174.48,Biotechnology: Pharmaceutical Preparations,Health Care
+7/31/2023,Johnson & Johnson,JNJ,167.53,Biotechnology: Pharmaceutical Preparations,Health Care
+2/1/2023,Exxon Mobil,XOM,114.74,Integrated oil Companies,Energy
+2/2/2023,Exxon Mobil,XOM,111.15,Integrated oil Companies,Energy
+2/3/2023,Exxon Mobil,XOM,111.92,Integrated oil Companies,Energy
+2/6/2023,Exxon Mobil,XOM,111.73,Integrated oil Companies,Energy
+2/7/2023,Exxon Mobil,XOM,114.92,Integrated oil Companies,Energy
+2/8/2023,Exxon Mobil,XOM,113.92,Integrated oil Companies,Energy
+2/9/2023,Exxon Mobil,XOM,114.35,Integrated oil Companies,Energy
+2/10/2023,Exxon Mobil,XOM,119.17,Integrated oil Companies,Energy
+2/13/2023,Exxon Mobil,XOM,117.8,Integrated oil Companies,Energy
+2/14/2023,Exxon Mobil,XOM,116.42,Integrated oil Companies,Energy
+2/15/2023,Exxon Mobil,XOM,116.07,Integrated oil Companies,Energy
+2/16/2023,Exxon Mobil,XOM,115.73,Integrated oil Companies,Energy
+2/17/2023,Exxon Mobil,XOM,111.28,Integrated oil Companies,Energy
+2/21/2023,Exxon Mobil,XOM,111.17,Integrated oil Companies,Energy
+2/22/2023,Exxon Mobil,XOM,109.73,Integrated oil Companies,Energy
+2/23/2023,Exxon Mobil,XOM,110.74,Integrated oil Companies,Energy
+2/24/2023,Exxon Mobil,XOM,110.75,Integrated oil Companies,Energy
+2/27/2023,Exxon Mobil,XOM,110.55,Integrated oil Companies,Energy
+2/28/2023,Exxon Mobil,XOM,109.91,Integrated oil Companies,Energy
+3/1/2023,Exxon Mobil,XOM,110.89,Integrated oil Companies,Energy
+3/2/2023,Exxon Mobil,XOM,111.4,Integrated oil Companies,Energy
+3/3/2023,Exxon Mobil,XOM,112.81,Integrated oil Companies,Energy
+3/6/2023,Exxon Mobil,XOM,113.81,Integrated oil Companies,Energy
+3/7/2023,Exxon Mobil,XOM,111.61,Integrated oil Companies,Energy
+3/8/2023,Exxon Mobil,XOM,109.98,Integrated oil Companies,Energy
+3/9/2023,Exxon Mobil,XOM,109.13,Integrated oil Companies,Energy
+3/10/2023,Exxon Mobil,XOM,107.78,Integrated oil Companies,Energy
+3/13/2023,Exxon Mobil,XOM,106.54,Integrated oil Companies,Energy
+3/14/2023,Exxon Mobil,XOM,106.94,Integrated oil Companies,Energy
+3/15/2023,Exxon Mobil,XOM,101.62,Integrated oil Companies,Energy
+3/16/2023,Exxon Mobil,XOM,101.03,Integrated oil Companies,Energy
+3/17/2023,Exxon Mobil,XOM,99.84,Integrated oil Companies,Energy
+3/20/2023,Exxon Mobil,XOM,102.45,Integrated oil Companies,Energy
+3/21/2023,Exxon Mobil,XOM,107.04,Integrated oil Companies,Energy
+3/22/2023,Exxon Mobil,XOM,104.59,Integrated oil Companies,Energy
+3/23/2023,Exxon Mobil,XOM,103.41,Integrated oil Companies,Energy
+3/24/2023,Exxon Mobil,XOM,103.53,Integrated oil Companies,Energy
+3/27/2023,Exxon Mobil,XOM,105.8,Integrated oil Companies,Energy
+3/28/2023,Exxon Mobil,XOM,107.12,Integrated oil Companies,Energy
+3/29/2023,Exxon Mobil,XOM,108.96,Integrated oil Companies,Energy
+3/30/2023,Exxon Mobil,XOM,109.49,Integrated oil Companies,Energy
+3/31/2023,Exxon Mobil,XOM,109.66,Integrated oil Companies,Energy
+4/3/2023,Exxon Mobil,XOM,116.13,Integrated oil Companies,Energy
+4/4/2023,Exxon Mobil,XOM,115.02,Integrated oil Companies,Energy
+4/5/2023,Exxon Mobil,XOM,116.99,Integrated oil Companies,Energy
+4/6/2023,Exxon Mobil,XOM,115.05,Integrated oil Companies,Energy
+4/10/2023,Exxon Mobil,XOM,114.54,Integrated oil Companies,Energy
+4/11/2023,Exxon Mobil,XOM,115.35,Integrated oil Companies,Energy
+4/12/2023,Exxon Mobil,XOM,115.23,Integrated oil Companies,Energy
+4/13/2023,Exxon Mobil,XOM,115.77,Integrated oil Companies,Energy
+4/14/2023,Exxon Mobil,XOM,116.05,Integrated oil Companies,Energy
+4/17/2023,Exxon Mobil,XOM,114.7,Integrated oil Companies,Energy
+4/18/2023,Exxon Mobil,XOM,116.94,Integrated oil Companies,Energy
+4/19/2023,Exxon Mobil,XOM,116.57,Integrated oil Companies,Energy
+4/20/2023,Exxon Mobil,XOM,115.64,Integrated oil Companies,Energy
+4/21/2023,Exxon Mobil,XOM,116.01,Integrated oil Companies,Energy
+4/24/2023,Exxon Mobil,XOM,118.2,Integrated oil Companies,Energy
+4/25/2023,Exxon Mobil,XOM,116.52,Integrated oil Companies,Energy
+4/26/2023,Exxon Mobil,XOM,115.45,Integrated oil Companies,Energy
+4/27/2023,Exxon Mobil,XOM,116.83,Integrated oil Companies,Energy
+4/28/2023,Exxon Mobil,XOM,118.34,Integrated oil Companies,Energy
+5/1/2023,Exxon Mobil,XOM,114.67,Integrated oil Companies,Energy
+5/2/2023,Exxon Mobil,XOM,110.1,Integrated oil Companies,Energy
+5/3/2023,Exxon Mobil,XOM,107.93,Integrated oil Companies,Energy
+5/4/2023,Exxon Mobil,XOM,106.04,Integrated oil Companies,Energy
+5/5/2023,Exxon Mobil,XOM,108.68,Integrated oil Companies,Energy
+5/8/2023,Exxon Mobil,XOM,109.11,Integrated oil Companies,Energy
+5/9/2023,Exxon Mobil,XOM,109.14,Integrated oil Companies,Energy
+5/10/2023,Exxon Mobil,XOM,107.74,Integrated oil Companies,Energy
+5/11/2023,Exxon Mobil,XOM,105.79,Integrated oil Companies,Energy
+5/12/2023,Exxon Mobil,XOM,105.78,Integrated oil Companies,Energy
+5/15/2023,Exxon Mobil,XOM,105.07,Integrated oil Companies,Energy
+5/16/2023,Exxon Mobil,XOM,102.52,Integrated oil Companies,Energy
+5/17/2023,Exxon Mobil,XOM,104.82,Integrated oil Companies,Energy
+5/18/2023,Exxon Mobil,XOM,105.77,Integrated oil Companies,Energy
+5/19/2023,Exxon Mobil,XOM,106.26,Integrated oil Companies,Energy
+5/22/2023,Exxon Mobil,XOM,104.97,Integrated oil Companies,Energy
+5/23/2023,Exxon Mobil,XOM,106.4,Integrated oil Companies,Energy
+5/24/2023,Exxon Mobil,XOM,107.59,Integrated oil Companies,Energy
+5/25/2023,Exxon Mobil,XOM,105.66,Integrated oil Companies,Energy
+5/26/2023,Exxon Mobil,XOM,104.97,Integrated oil Companies,Energy
+5/30/2023,Exxon Mobil,XOM,104.04,Integrated oil Companies,Energy
+5/31/2023,Exxon Mobil,XOM,102.18,Integrated oil Companies,Energy
+6/1/2023,Exxon Mobil,XOM,103.36,Integrated oil Companies,Energy
+6/2/2023,Exxon Mobil,XOM,105.76,Integrated oil Companies,Energy
+6/5/2023,Exxon Mobil,XOM,105.29,Integrated oil Companies,Energy
+6/6/2023,Exxon Mobil,XOM,106.15,Integrated oil Companies,Energy
+6/7/2023,Exxon Mobil,XOM,108.53,Integrated oil Companies,Energy
+6/8/2023,Exxon Mobil,XOM,108.19,Integrated oil Companies,Energy
+6/9/2023,Exxon Mobil,XOM,107.39,Integrated oil Companies,Energy
+6/12/2023,Exxon Mobil,XOM,106.42,Integrated oil Companies,Energy
+6/13/2023,Exxon Mobil,XOM,106.44,Integrated oil Companies,Energy
+6/14/2023,Exxon Mobil,XOM,105.16,Integrated oil Companies,Energy
+6/15/2023,Exxon Mobil,XOM,105.89,Integrated oil Companies,Energy
+6/16/2023,Exxon Mobil,XOM,105.13,Integrated oil Companies,Energy
+6/20/2023,Exxon Mobil,XOM,102.72,Integrated oil Companies,Energy
+6/21/2023,Exxon Mobil,XOM,103.87,Integrated oil Companies,Energy
+6/22/2023,Exxon Mobil,XOM,103.3,Integrated oil Companies,Energy
+6/23/2023,Exxon Mobil,XOM,102.4,Integrated oil Companies,Energy
+6/26/2023,Exxon Mobil,XOM,104.29,Integrated oil Companies,Energy
+6/27/2023,Exxon Mobil,XOM,104.55,Integrated oil Companies,Energy
+6/28/2023,Exxon Mobil,XOM,105.4,Integrated oil Companies,Energy
+6/29/2023,Exxon Mobil,XOM,106.7,Integrated oil Companies,Energy
+6/30/2023,Exxon Mobil,XOM,107.25,Integrated oil Companies,Energy
+7/3/2023,Exxon Mobil,XOM,107.46,Integrated oil Companies,Energy
+7/5/2023,Exxon Mobil,XOM,106.91,Integrated oil Companies,Energy
+7/6/2023,Exxon Mobil,XOM,102.92,Integrated oil Companies,Energy
+7/7/2023,Exxon Mobil,XOM,103.16,Integrated oil Companies,Energy
+7/10/2023,Exxon Mobil,XOM,104.69,Integrated oil Companies,Energy
+7/11/2023,Exxon Mobil,XOM,105.97,Integrated oil Companies,Energy
+7/12/2023,Exxon Mobil,XOM,106.49,Integrated oil Companies,Energy
+7/13/2023,Exxon Mobil,XOM,104.54,Integrated oil Companies,Energy
+7/14/2023,Exxon Mobil,XOM,100.94,Integrated oil Companies,Energy
+7/17/2023,Exxon Mobil,XOM,101.38,Integrated oil Companies,Energy
+7/18/2023,Exxon Mobil,XOM,100.92,Integrated oil Companies,Energy
+7/19/2023,Exxon Mobil,XOM,101.62,Integrated oil Companies,Energy
+7/20/2023,Exxon Mobil,XOM,103.41,Integrated oil Companies,Energy
+7/21/2023,Exxon Mobil,XOM,103.89,Integrated oil Companies,Energy
+7/24/2023,Exxon Mobil,XOM,105.52,Integrated oil Companies,Energy
+7/25/2023,Exxon Mobil,XOM,105.68,Integrated oil Companies,Energy
+7/26/2023,Exxon Mobil,XOM,105.09,Integrated oil Companies,Energy
+7/27/2023,Exxon Mobil,XOM,105.42,Integrated oil Companies,Energy
+7/28/2023,Exxon Mobil,XOM,104.16,Integrated oil Companies,Energy
+7/31/2023,Exxon Mobil,XOM,107.24,Integrated oil Companies,Energy
+2/1/2023,Visa,V,230.9,Business Services,Consumer Discretionary
+2/2/2023,Visa,V,229.56,Business Services,Consumer Discretionary
+2/3/2023,Visa,V,230.13,Business Services,Consumer Discretionary
+2/6/2023,Visa,V,229.44,Business Services,Consumer Discretionary
+2/7/2023,Visa,V,231.32,Business Services,Consumer Discretionary
+2/8/2023,Visa,V,230.2,Business Services,Consumer Discretionary
+2/9/2023,Visa,V,229.35,Business Services,Consumer Discretionary
+2/10/2023,Visa,V,227.2,Business Services,Consumer Discretionary
+2/13/2023,Visa,V,228.88,Business Services,Consumer Discretionary
+2/14/2023,Visa,V,229.39,Business Services,Consumer Discretionary
+2/15/2023,Visa,V,228.92,Business Services,Consumer Discretionary
+2/16/2023,Visa,V,225.83,Business Services,Consumer Discretionary
+2/17/2023,Visa,V,223.56,Business Services,Consumer Discretionary
+2/21/2023,Visa,V,220.62,Business Services,Consumer Discretionary
+2/22/2023,Visa,V,220.02,Business Services,Consumer Discretionary
+2/23/2023,Visa,V,221.13,Business Services,Consumer Discretionary
+2/24/2023,Visa,V,219.55,Business Services,Consumer Discretionary
+2/27/2023,Visa,V,220.35,Business Services,Consumer Discretionary
+2/28/2023,Visa,V,219.94,Business Services,Consumer Discretionary
+3/1/2023,Visa,V,218.36,Business Services,Consumer Discretionary
+3/2/2023,Visa,V,219.06,Business Services,Consumer Discretionary
+3/3/2023,Visa,V,223.77,Business Services,Consumer Discretionary
+3/6/2023,Visa,V,226.75,Business Services,Consumer Discretionary
+3/7/2023,Visa,V,223.17,Business Services,Consumer Discretionary
+3/8/2023,Visa,V,222.19,Business Services,Consumer Discretionary
+3/9/2023,Visa,V,220.01,Business Services,Consumer Discretionary
+3/10/2023,Visa,V,216.14,Business Services,Consumer Discretionary
+3/13/2023,Visa,V,214.47,Business Services,Consumer Discretionary
+3/14/2023,Visa,V,218.66,Business Services,Consumer Discretionary
+3/15/2023,Visa,V,216.37,Business Services,Consumer Discretionary
+3/16/2023,Visa,V,217.45,Business Services,Consumer Discretionary
+3/17/2023,Visa,V,217.39,Business Services,Consumer Discretionary
+3/20/2023,Visa,V,218.15,Business Services,Consumer Discretionary
+3/21/2023,Visa,V,221.95,Business Services,Consumer Discretionary
+3/22/2023,Visa,V,220.04,Business Services,Consumer Discretionary
+3/23/2023,Visa,V,222.59,Business Services,Consumer Discretionary
+3/24/2023,Visa,V,221.04,Business Services,Consumer Discretionary
+3/27/2023,Visa,V,221.81,Business Services,Consumer Discretionary
+3/28/2023,Visa,V,220.33,Business Services,Consumer Discretionary
+3/29/2023,Visa,V,223.3,Business Services,Consumer Discretionary
+3/30/2023,Visa,V,222.36,Business Services,Consumer Discretionary
+3/31/2023,Visa,V,225.46,Business Services,Consumer Discretionary
+4/3/2023,Visa,V,229,Business Services,Consumer Discretionary
+4/4/2023,Visa,V,227.66,Business Services,Consumer Discretionary
+4/5/2023,Visa,V,228.17,Business Services,Consumer Discretionary
+4/6/2023,Visa,V,225.99,Business Services,Consumer Discretionary
+4/10/2023,Visa,V,226.43,Business Services,Consumer Discretionary
+4/11/2023,Visa,V,228.45,Business Services,Consumer Discretionary
+4/12/2023,Visa,V,227.81,Business Services,Consumer Discretionary
+4/13/2023,Visa,V,232.69,Business Services,Consumer Discretionary
+4/14/2023,Visa,V,234.02,Business Services,Consumer Discretionary
+4/17/2023,Visa,V,233.48,Business Services,Consumer Discretionary
+4/18/2023,Visa,V,233.6,Business Services,Consumer Discretionary
+4/19/2023,Visa,V,232.57,Business Services,Consumer Discretionary
+4/20/2023,Visa,V,234.6,Business Services,Consumer Discretionary
+4/21/2023,Visa,V,234.05,Business Services,Consumer Discretionary
+4/24/2023,Visa,V,232.76,Business Services,Consumer Discretionary
+4/25/2023,Visa,V,229.59,Business Services,Consumer Discretionary
+4/26/2023,Visa,V,228.15,Business Services,Consumer Discretionary
+4/27/2023,Visa,V,229.01,Business Services,Consumer Discretionary
+4/28/2023,Visa,V,232.73,Business Services,Consumer Discretionary
+5/1/2023,Visa,V,232.51,Business Services,Consumer Discretionary
+5/2/2023,Visa,V,226.98,Business Services,Consumer Discretionary
+5/3/2023,Visa,V,225.98,Business Services,Consumer Discretionary
+5/4/2023,Visa,V,225.6,Business Services,Consumer Discretionary
+5/5/2023,Visa,V,231.78,Business Services,Consumer Discretionary
+5/8/2023,Visa,V,232.23,Business Services,Consumer Discretionary
+5/9/2023,Visa,V,233.26,Business Services,Consumer Discretionary
+5/10/2023,Visa,V,231.27,Business Services,Consumer Discretionary
+5/11/2023,Visa,V,231.01,Business Services,Consumer Discretionary
+5/12/2023,Visa,V,231.38,Business Services,Consumer Discretionary
+5/15/2023,Visa,V,232.81,Business Services,Consumer Discretionary
+5/16/2023,Visa,V,230.47,Business Services,Consumer Discretionary
+5/17/2023,Visa,V,232.65,Business Services,Consumer Discretionary
+5/18/2023,Visa,V,233.6,Business Services,Consumer Discretionary
+5/19/2023,Visa,V,233.31,Business Services,Consumer Discretionary
+5/22/2023,Visa,V,231.28,Business Services,Consumer Discretionary
+5/23/2023,Visa,V,224.58,Business Services,Consumer Discretionary
+5/24/2023,Visa,V,222.25,Business Services,Consumer Discretionary
+5/25/2023,Visa,V,223.38,Business Services,Consumer Discretionary
+5/26/2023,Visa,V,225.01,Business Services,Consumer Discretionary
+5/30/2023,Visa,V,221.64,Business Services,Consumer Discretionary
+5/31/2023,Visa,V,221.03,Business Services,Consumer Discretionary
+6/1/2023,Visa,V,226.5,Business Services,Consumer Discretionary
+6/2/2023,Visa,V,228.79,Business Services,Consumer Discretionary
+6/5/2023,Visa,V,226.77,Business Services,Consumer Discretionary
+6/6/2023,Visa,V,228.22,Business Services,Consumer Discretionary
+6/7/2023,Visa,V,225.27,Business Services,Consumer Discretionary
+6/8/2023,Visa,V,223.05,Business Services,Consumer Discretionary
+6/9/2023,Visa,V,223.56,Business Services,Consumer Discretionary
+6/12/2023,Visa,V,226.17,Business Services,Consumer Discretionary
+6/13/2023,Visa,V,223.4,Business Services,Consumer Discretionary
+6/14/2023,Visa,V,223.44,Business Services,Consumer Discretionary
+6/15/2023,Visa,V,226.17,Business Services,Consumer Discretionary
+6/16/2023,Visa,V,228.91,Business Services,Consumer Discretionary
+6/20/2023,Visa,V,226.47,Business Services,Consumer Discretionary
+6/21/2023,Visa,V,227.25,Business Services,Consumer Discretionary
+6/22/2023,Visa,V,228.39,Business Services,Consumer Discretionary
+6/23/2023,Visa,V,229.55,Business Services,Consumer Discretionary
+6/26/2023,Visa,V,226.3,Business Services,Consumer Discretionary
+6/27/2023,Visa,V,227.34,Business Services,Consumer Discretionary
+6/28/2023,Visa,V,227.96,Business Services,Consumer Discretionary
+6/29/2023,Visa,V,234.32,Business Services,Consumer Discretionary
+6/30/2023,Visa,V,237.48,Business Services,Consumer Discretionary
+7/3/2023,Visa,V,237.97,Business Services,Consumer Discretionary
+7/5/2023,Visa,V,239.45,Business Services,Consumer Discretionary
+7/6/2023,Visa,V,238.88,Business Services,Consumer Discretionary
+7/7/2023,Visa,V,236.45,Business Services,Consumer Discretionary
+7/10/2023,Visa,V,238.16,Business Services,Consumer Discretionary
+7/11/2023,Visa,V,240.55,Business Services,Consumer Discretionary
+7/12/2023,Visa,V,242.21,Business Services,Consumer Discretionary
+7/13/2023,Visa,V,243.31,Business Services,Consumer Discretionary
+7/14/2023,Visa,V,243.16,Business Services,Consumer Discretionary
+7/17/2023,Visa,V,243.99,Business Services,Consumer Discretionary
+7/18/2023,Visa,V,240.77,Business Services,Consumer Discretionary
+7/19/2023,Visa,V,241.42,Business Services,Consumer Discretionary
+7/20/2023,Visa,V,239.62,Business Services,Consumer Discretionary
+7/21/2023,Visa,V,239.25,Business Services,Consumer Discretionary
+7/24/2023,Visa,V,240.74,Business Services,Consumer Discretionary
+7/25/2023,Visa,V,238.69,Business Services,Consumer Discretionary
+7/26/2023,Visa,V,237.1,Business Services,Consumer Discretionary
+7/27/2023,Visa,V,234.44,Business Services,Consumer Discretionary
+7/28/2023,Visa,V,235.75,Business Services,Consumer Discretionary
+7/31/2023,Visa,V,237.73,Business Services,Consumer Discretionary
+2/1/2023,Broadcom,AVGO,602.75,Semiconductors,Technology
+2/2/2023,Broadcom,AVGO,605.77,Semiconductors,Technology
+2/3/2023,Broadcom,AVGO,597.62,Semiconductors,Technology
+2/6/2023,Broadcom,AVGO,601.3,Semiconductors,Technology
+2/7/2023,Broadcom,AVGO,614.45,Semiconductors,Technology
+2/8/2023,Broadcom,AVGO,601.71,Semiconductors,Technology
+2/9/2023,Broadcom,AVGO,599.41,Semiconductors,Technology
+2/10/2023,Broadcom,AVGO,593.25,Semiconductors,Technology
+2/13/2023,Broadcom,AVGO,601.12,Semiconductors,Technology
+2/14/2023,Broadcom,AVGO,602.31,Semiconductors,Technology
+2/15/2023,Broadcom,AVGO,607.69,Semiconductors,Technology
+2/16/2023,Broadcom,AVGO,600.54,Semiconductors,Technology
+2/17/2023,Broadcom,AVGO,595.59,Semiconductors,Technology
+2/21/2023,Broadcom,AVGO,581.54,Semiconductors,Technology
+2/22/2023,Broadcom,AVGO,576.17,Semiconductors,Technology
+2/23/2023,Broadcom,AVGO,583.8,Semiconductors,Technology
+2/24/2023,Broadcom,AVGO,577.75,Semiconductors,Technology
+2/27/2023,Broadcom,AVGO,585.45,Semiconductors,Technology
+2/28/2023,Broadcom,AVGO,594.29,Semiconductors,Technology
+3/1/2023,Broadcom,AVGO,593.57,Semiconductors,Technology
+3/2/2023,Broadcom,AVGO,598.65,Semiconductors,Technology
+3/3/2023,Broadcom,AVGO,632.76,Semiconductors,Technology
+3/6/2023,Broadcom,AVGO,632.92,Semiconductors,Technology
+3/7/2023,Broadcom,AVGO,625.15,Semiconductors,Technology
+3/8/2023,Broadcom,AVGO,632.26,Semiconductors,Technology
+3/9/2023,Broadcom,AVGO,622.52,Semiconductors,Technology
+3/10/2023,Broadcom,AVGO,614.83,Semiconductors,Technology
+3/13/2023,Broadcom,AVGO,616.47,Semiconductors,Technology
+3/14/2023,Broadcom,AVGO,632.46,Semiconductors,Technology
+3/15/2023,Broadcom,AVGO,626.04,Semiconductors,Technology
+3/16/2023,Broadcom,AVGO,636.5,Semiconductors,Technology
+3/17/2023,Broadcom,AVGO,630.97,Semiconductors,Technology
+3/20/2023,Broadcom,AVGO,643.71,Semiconductors,Technology
+3/21/2023,Broadcom,AVGO,636.75,Semiconductors,Technology
+3/22/2023,Broadcom,AVGO,630.92,Semiconductors,Technology
+3/23/2023,Broadcom,AVGO,639.23,Semiconductors,Technology
+3/24/2023,Broadcom,AVGO,636.17,Semiconductors,Technology
+3/27/2023,Broadcom,AVGO,626.84,Semiconductors,Technology
+3/28/2023,Broadcom,AVGO,624.7,Semiconductors,Technology
+3/29/2023,Broadcom,AVGO,625.5,Semiconductors,Technology
+3/30/2023,Broadcom,AVGO,633.75,Semiconductors,Technology
+3/31/2023,Broadcom,AVGO,641.54,Semiconductors,Technology
+4/3/2023,Broadcom,AVGO,642.47,Semiconductors,Technology
+4/4/2023,Broadcom,AVGO,634.41,Semiconductors,Technology
+4/5/2023,Broadcom,AVGO,629.01,Semiconductors,Technology
+4/6/2023,Broadcom,AVGO,622.64,Semiconductors,Technology
+4/10/2023,Broadcom,AVGO,627.39,Semiconductors,Technology
+4/11/2023,Broadcom,AVGO,621.57,Semiconductors,Technology
+4/12/2023,Broadcom,AVGO,616.7,Semiconductors,Technology
+4/13/2023,Broadcom,AVGO,624.24,Semiconductors,Technology
+4/14/2023,Broadcom,AVGO,619.54,Semiconductors,Technology
+4/17/2023,Broadcom,AVGO,627.36,Semiconductors,Technology
+4/18/2023,Broadcom,AVGO,632.32,Semiconductors,Technology
+4/19/2023,Broadcom,AVGO,634.5,Semiconductors,Technology
+4/20/2023,Broadcom,AVGO,633.02,Semiconductors,Technology
+4/21/2023,Broadcom,AVGO,632.9,Semiconductors,Technology
+4/24/2023,Broadcom,AVGO,634.54,Semiconductors,Technology
+4/25/2023,Broadcom,AVGO,622.02,Semiconductors,Technology
+4/26/2023,Broadcom,AVGO,616.19,Semiconductors,Technology
+4/27/2023,Broadcom,AVGO,618.41,Semiconductors,Technology
+4/28/2023,Broadcom,AVGO,626.5,Semiconductors,Technology
+5/1/2023,Broadcom,AVGO,637.95,Semiconductors,Technology
+5/2/2023,Broadcom,AVGO,612.34,Semiconductors,Technology
+5/3/2023,Broadcom,AVGO,613.2,Semiconductors,Technology
+5/4/2023,Broadcom,AVGO,610.16,Semiconductors,Technology
+5/5/2023,Broadcom,AVGO,630.12,Semiconductors,Technology
+5/8/2023,Broadcom,AVGO,629.06,Semiconductors,Technology
+5/9/2023,Broadcom,AVGO,618.51,Semiconductors,Technology
+5/10/2023,Broadcom,AVGO,626.27,Semiconductors,Technology
+5/11/2023,Broadcom,AVGO,627.67,Semiconductors,Technology
+5/12/2023,Broadcom,AVGO,631.15,Semiconductors,Technology
+5/15/2023,Broadcom,AVGO,639.8,Semiconductors,Technology
+5/16/2023,Broadcom,AVGO,641.44,Semiconductors,Technology
+5/17/2023,Broadcom,AVGO,657.47,Semiconductors,Technology
+5/18/2023,Broadcom,AVGO,677.9,Semiconductors,Technology
+5/19/2023,Broadcom,AVGO,682.25,Semiconductors,Technology
+5/22/2023,Broadcom,AVGO,678.37,Semiconductors,Technology
+5/23/2023,Broadcom,AVGO,686.5,Semiconductors,Technology
+5/24/2023,Broadcom,AVGO,679.53,Semiconductors,Technology
+5/25/2023,Broadcom,AVGO,728.8,Semiconductors,Technology
+5/26/2023,Broadcom,AVGO,812.73,Semiconductors,Technology
+5/30/2023,Broadcom,AVGO,803.34,Semiconductors,Technology
+5/31/2023,Broadcom,AVGO,807.96,Semiconductors,Technology
+6/1/2023,Broadcom,AVGO,789.95,Semiconductors,Technology
+6/2/2023,Broadcom,AVGO,812,Semiconductors,Technology
+6/5/2023,Broadcom,AVGO,802.3,Semiconductors,Technology
+6/6/2023,Broadcom,AVGO,790,Semiconductors,Technology
+6/7/2023,Broadcom,AVGO,792.63,Semiconductors,Technology
+6/8/2023,Broadcom,AVGO,804.2,Semiconductors,Technology
+6/9/2023,Broadcom,AVGO,804.62,Semiconductors,Technology
+6/12/2023,Broadcom,AVGO,855.36,Semiconductors,Technology
+6/13/2023,Broadcom,AVGO,851.12,Semiconductors,Technology
+6/14/2023,Broadcom,AVGO,886.18,Semiconductors,Technology
+6/15/2023,Broadcom,AVGO,883.43,Semiconductors,Technology
+6/16/2023,Broadcom,AVGO,868.11,Semiconductors,Technology
+6/20/2023,Broadcom,AVGO,868.03,Semiconductors,Technology
+6/21/2023,Broadcom,AVGO,847.66,Semiconductors,Technology
+6/22/2023,Broadcom,AVGO,842.43,Semiconductors,Technology
+6/23/2023,Broadcom,AVGO,822.15,Semiconductors,Technology
+6/26/2023,Broadcom,AVGO,821.63,Semiconductors,Technology
+6/27/2023,Broadcom,AVGO,848.4,Semiconductors,Technology
+6/28/2023,Broadcom,AVGO,847.94,Semiconductors,Technology
+6/29/2023,Broadcom,AVGO,862.57,Semiconductors,Technology
+6/30/2023,Broadcom,AVGO,867.43,Semiconductors,Technology
+7/3/2023,Broadcom,AVGO,876.44,Semiconductors,Technology
+7/5/2023,Broadcom,AVGO,861.86,Semiconductors,Technology
+7/6/2023,Broadcom,AVGO,848,Semiconductors,Technology
+7/7/2023,Broadcom,AVGO,846.75,Semiconductors,Technology
+7/10/2023,Broadcom,AVGO,877.73,Semiconductors,Technology
+7/11/2023,Broadcom,AVGO,882.05,Semiconductors,Technology
+7/12/2023,Broadcom,AVGO,889.95,Semiconductors,Technology
+7/13/2023,Broadcom,AVGO,890.36,Semiconductors,Technology
+7/14/2023,Broadcom,AVGO,888.58,Semiconductors,Technology
+7/17/2023,Broadcom,AVGO,910.35,Semiconductors,Technology
+7/18/2023,Broadcom,AVGO,903.43,Semiconductors,Technology
+7/19/2023,Broadcom,AVGO,901.37,Semiconductors,Technology
+7/20/2023,Broadcom,AVGO,888.34,Semiconductors,Technology
+7/21/2023,Broadcom,AVGO,896.75,Semiconductors,Technology
+7/24/2023,Broadcom,AVGO,901.59,Semiconductors,Technology
+7/25/2023,Broadcom,AVGO,917.99,Semiconductors,Technology
+7/26/2023,Broadcom,AVGO,893.09,Semiconductors,Technology
+7/27/2023,Broadcom,AVGO,893.53,Semiconductors,Technology
+7/28/2023,Broadcom,AVGO,899.79,Semiconductors,Technology
+7/31/2023,Broadcom,AVGO,898.65,Semiconductors,Technology
+2/1/2023,S&P 500,SPX,4119.21,S&P 500,S&P 500
+2/2/2023,S&P 500,SPX,4179.76,S&P 500,S&P 500
+2/3/2023,S&P 500,SPX,4136.48,S&P 500,S&P 500
+2/6/2023,S&P 500,SPX,4111.08,S&P 500,S&P 500
+2/7/2023,S&P 500,SPX,4164,S&P 500,S&P 500
+2/8/2023,S&P 500,SPX,4117.86,S&P 500,S&P 500
+2/9/2023,S&P 500,SPX,4081.5,S&P 500,S&P 500
+2/10/2023,S&P 500,SPX,4090.46,S&P 500,S&P 500
+2/13/2023,S&P 500,SPX,4137.29,S&P 500,S&P 500
+2/14/2023,S&P 500,SPX,4136.13,S&P 500,S&P 500
+2/15/2023,S&P 500,SPX,4147.6,S&P 500,S&P 500
+2/16/2023,S&P 500,SPX,4090.41,S&P 500,S&P 500
+2/17/2023,S&P 500,SPX,4079.09,S&P 500,S&P 500
+2/21/2023,S&P 500,SPX,3997.34,S&P 500,S&P 500
+2/22/2023,S&P 500,SPX,3991.05,S&P 500,S&P 500
+2/23/2023,S&P 500,SPX,4012.32,S&P 500,S&P 500
+2/24/2023,S&P 500,SPX,3970.04,S&P 500,S&P 500
+2/27/2023,S&P 500,SPX,3982.24,S&P 500,S&P 500
+2/28/2023,S&P 500,SPX,3970.15,S&P 500,S&P 500
+3/1/2023,S&P 500,SPX,3951.39,S&P 500,S&P 500
+3/2/2023,S&P 500,SPX,3981.35,S&P 500,S&P 500
+3/3/2023,S&P 500,SPX,4045.64,S&P 500,S&P 500
+3/6/2023,S&P 500,SPX,4048.42,S&P 500,S&P 500
+3/7/2023,S&P 500,SPX,3986.37,S&P 500,S&P 500
+3/8/2023,S&P 500,SPX,3992.01,S&P 500,S&P 500
+3/9/2023,S&P 500,SPX,3918.32,S&P 500,S&P 500
+3/10/2023,S&P 500,SPX,3861.59,S&P 500,S&P 500
+3/13/2023,S&P 500,SPX,3855.76,S&P 500,S&P 500
+3/14/2023,S&P 500,SPX,3919.29,S&P 500,S&P 500
+3/15/2023,S&P 500,SPX,3891.93,S&P 500,S&P 500
+3/16/2023,S&P 500,SPX,3960.28,S&P 500,S&P 500
+3/17/2023,S&P 500,SPX,3916.64,S&P 500,S&P 500
+3/20/2023,S&P 500,SPX,3951.57,S&P 500,S&P 500
+3/21/2023,S&P 500,SPX,4002.87,S&P 500,S&P 500
+3/22/2023,S&P 500,SPX,3936.97,S&P 500,S&P 500
+3/23/2023,S&P 500,SPX,3948.72,S&P 500,S&P 500
+3/24/2023,S&P 500,SPX,3970.99,S&P 500,S&P 500
+3/27/2023,S&P 500,SPX,3977.53,S&P 500,S&P 500
+3/28/2023,S&P 500,SPX,3971.27,S&P 500,S&P 500
+3/29/2023,S&P 500,SPX,4027.81,S&P 500,S&P 500
+3/30/2023,S&P 500,SPX,4050.83,S&P 500,S&P 500
+3/31/2023,S&P 500,SPX,4109.31,S&P 500,S&P 500
+4/3/2023,S&P 500,SPX,4124.51,S&P 500,S&P 500
+4/4/2023,S&P 500,SPX,4100.6,S&P 500,S&P 500
+4/5/2023,S&P 500,SPX,4090.38,S&P 500,S&P 500
+4/6/2023,S&P 500,SPX,4105.02,S&P 500,S&P 500
+4/10/2023,S&P 500,SPX,4109.11,S&P 500,S&P 500
+4/11/2023,S&P 500,SPX,4108.94,S&P 500,S&P 500
+4/12/2023,S&P 500,SPX,4091.95,S&P 500,S&P 500
+4/13/2023,S&P 500,SPX,4146.22,S&P 500,S&P 500
+4/14/2023,S&P 500,SPX,4137.64,S&P 500,S&P 500
+4/17/2023,S&P 500,SPX,4151.32,S&P 500,S&P 500
+4/18/2023,S&P 500,SPX,4154.87,S&P 500,S&P 500
+4/19/2023,S&P 500,SPX,4154.52,S&P 500,S&P 500
+4/20/2023,S&P 500,SPX,4129.79,S&P 500,S&P 500
+4/21/2023,S&P 500,SPX,4133.52,S&P 500,S&P 500
+4/24/2023,S&P 500,SPX,4137.04,S&P 500,S&P 500
+4/25/2023,S&P 500,SPX,4071.63,S&P 500,S&P 500
+4/26/2023,S&P 500,SPX,4055.99,S&P 500,S&P 500
+4/27/2023,S&P 500,SPX,4135.35,S&P 500,S&P 500
+4/28/2023,S&P 500,SPX,4169.48,S&P 500,S&P 500
+5/1/2023,S&P 500,SPX,4167.87,S&P 500,S&P 500
+5/2/2023,S&P 500,SPX,4119.58,S&P 500,S&P 500
+5/3/2023,S&P 500,SPX,4090.75,S&P 500,S&P 500
+5/4/2023,S&P 500,SPX,4061.22,S&P 500,S&P 500
+5/5/2023,S&P 500,SPX,4136.25,S&P 500,S&P 500
+5/8/2023,S&P 500,SPX,4138.12,S&P 500,S&P 500
+5/9/2023,S&P 500,SPX,4119.17,S&P 500,S&P 500
+5/10/2023,S&P 500,SPX,4137.64,S&P 500,S&P 500
+5/11/2023,S&P 500,SPX,4130.62,S&P 500,S&P 500
+5/12/2023,S&P 500,SPX,4124.08,S&P 500,S&P 500
+5/15/2023,S&P 500,SPX,4136.28,S&P 500,S&P 500
+5/16/2023,S&P 500,SPX,4109.9,S&P 500,S&P 500
+5/17/2023,S&P 500,SPX,4158.77,S&P 500,S&P 500
+5/18/2023,S&P 500,SPX,4198.05,S&P 500,S&P 500
+5/19/2023,S&P 500,SPX,4191.98,S&P 500,S&P 500
+5/22/2023,S&P 500,SPX,4192.63,S&P 500,S&P 500
+5/23/2023,S&P 500,SPX,4145.58,S&P 500,S&P 500
+5/24/2023,S&P 500,SPX,4115.24,S&P 500,S&P 500
+5/25/2023,S&P 500,SPX,4151.28,S&P 500,S&P 500
+5/26/2023,S&P 500,SPX,4205.45,S&P 500,S&P 500
+5/30/2023,S&P 500,SPX,4205.52,S&P 500,S&P 500
+5/31/2023,S&P 500,SPX,4179.83,S&P 500,S&P 500
+6/1/2023,S&P 500,SPX,4221.02,S&P 500,S&P 500
+6/2/2023,S&P 500,SPX,4282.37,S&P 500,S&P 500
+6/5/2023,S&P 500,SPX,4273.79,S&P 500,S&P 500
+6/6/2023,S&P 500,SPX,4283.85,S&P 500,S&P 500
+6/7/2023,S&P 500,SPX,4267.52,S&P 500,S&P 500
+6/8/2023,S&P 500,SPX,4293.93,S&P 500,S&P 500
+6/9/2023,S&P 500,SPX,4298.86,S&P 500,S&P 500
+6/12/2023,S&P 500,SPX,4338.93,S&P 500,S&P 500
+6/13/2023,S&P 500,SPX,4369.01,S&P 500,S&P 500
+6/14/2023,S&P 500,SPX,4372.59,S&P 500,S&P 500
+6/15/2023,S&P 500,SPX,4425.84,S&P 500,S&P 500
+6/16/2023,S&P 500,SPX,4409.59,S&P 500,S&P 500
+6/20/2023,S&P 500,SPX,4388.71,S&P 500,S&P 500
+6/21/2023,S&P 500,SPX,4365.69,S&P 500,S&P 500
+6/22/2023,S&P 500,SPX,4381.89,S&P 500,S&P 500
+6/23/2023,S&P 500,SPX,4348.33,S&P 500,S&P 500
+6/26/2023,S&P 500,SPX,4328.82,S&P 500,S&P 500
+6/27/2023,S&P 500,SPX,4378.41,S&P 500,S&P 500
+6/28/2023,S&P 500,SPX,4376.86,S&P 500,S&P 500
+6/29/2023,S&P 500,SPX,4396.44,S&P 500,S&P 500
+6/30/2023,S&P 500,SPX,4450.38,S&P 500,S&P 500
+7/3/2023,S&P 500,SPX,4455.59,S&P 500,S&P 500
+7/5/2023,S&P 500,SPX,4446.82,S&P 500,S&P 500
+7/6/2023,S&P 500,SPX,4411.59,S&P 500,S&P 500
+7/7/2023,S&P 500,SPX,4398.95,S&P 500,S&P 500
+7/10/2023,S&P 500,SPX,4409.53,S&P 500,S&P 500
+7/11/2023,S&P 500,SPX,4439.26,S&P 500,S&P 500
+7/12/2023,S&P 500,SPX,4472.16,S&P 500,S&P 500
+7/13/2023,S&P 500,SPX,4510.04,S&P 500,S&P 500
+7/14/2023,S&P 500,SPX,4505.42,S&P 500,S&P 500
+7/17/2023,S&P 500,SPX,4522.79,S&P 500,S&P 500
+7/18/2023,S&P 500,SPX,4554.98,S&P 500,S&P 500
+7/19/2023,S&P 500,SPX,4565.72,S&P 500,S&P 500
+7/20/2023,S&P 500,SPX,4534.87,S&P 500,S&P 500
+7/21/2023,S&P 500,SPX,4536.34,S&P 500,S&P 500
+7/24/2023,S&P 500,SPX,4554.64,S&P 500,S&P 500
+7/25/2023,S&P 500,SPX,4567.46,S&P 500,S&P 500
+7/26/2023,S&P 500,SPX,4566.75,S&P 500,S&P 500
+7/27/2023,S&P 500,SPX,4537.41,S&P 500,S&P 500
+7/28/2023,S&P 500,SPX,4582.23,S&P 500,S&P 500
+7/31/2023,S&P 500,SPX,4588.96,S&P 500,S&P 500
+2/1/2023,Nasdaq,NDAQ,11816.32,Investment Bankers/Brokers/Service,Finance
+2/2/2023,Nasdaq,NDAQ,12200.82,Investment Bankers/Brokers/Service,Finance
+2/3/2023,Nasdaq,NDAQ,12006.96,Investment Bankers/Brokers/Service,Finance
+2/6/2023,Nasdaq,NDAQ,11887.45,Investment Bankers/Brokers/Service,Finance
+2/7/2023,Nasdaq,NDAQ,12113.79,Investment Bankers/Brokers/Service,Finance
+2/8/2023,Nasdaq,NDAQ,11910.52,Investment Bankers/Brokers/Service,Finance
+2/9/2023,Nasdaq,NDAQ,11789.58,Investment Bankers/Brokers/Service,Finance
+2/10/2023,Nasdaq,NDAQ,11718.12,Investment Bankers/Brokers/Service,Finance
+2/13/2023,Nasdaq,NDAQ,11891.79,Investment Bankers/Brokers/Service,Finance
+2/14/2023,Nasdaq,NDAQ,11960.15,Investment Bankers/Brokers/Service,Finance
+2/15/2023,Nasdaq,NDAQ,12070.59,Investment Bankers/Brokers/Service,Finance
+2/16/2023,Nasdaq,NDAQ,11855.83,Investment Bankers/Brokers/Service,Finance
+2/17/2023,Nasdaq,NDAQ,11787.27,Investment Bankers/Brokers/Service,Finance
+2/21/2023,Nasdaq,NDAQ,11492.3,Investment Bankers/Brokers/Service,Finance
+2/22/2023,Nasdaq,NDAQ,11507.07,Investment Bankers/Brokers/Service,Finance
+2/23/2023,Nasdaq,NDAQ,11590.4,Investment Bankers/Brokers/Service,Finance
+2/24/2023,Nasdaq,NDAQ,11394.94,Investment Bankers/Brokers/Service,Finance
+2/27/2023,Nasdaq,NDAQ,11466.98,Investment Bankers/Brokers/Service,Finance
+2/28/2023,Nasdaq,NDAQ,11455.54,Investment Bankers/Brokers/Service,Finance
+3/1/2023,Nasdaq,NDAQ,11379.48,Investment Bankers/Brokers/Service,Finance
+3/2/2023,Nasdaq,NDAQ,11462.98,Investment Bankers/Brokers/Service,Finance
+3/3/2023,Nasdaq,NDAQ,11689.01,Investment Bankers/Brokers/Service,Finance
+3/6/2023,Nasdaq,NDAQ,11675.74,Investment Bankers/Brokers/Service,Finance
+3/7/2023,Nasdaq,NDAQ,11530.33,Investment Bankers/Brokers/Service,Finance
+3/8/2023,Nasdaq,NDAQ,11576,Investment Bankers/Brokers/Service,Finance
+3/9/2023,Nasdaq,NDAQ,11338.36,Investment Bankers/Brokers/Service,Finance
+3/10/2023,Nasdaq,NDAQ,11138.89,Investment Bankers/Brokers/Service,Finance
+3/13/2023,Nasdaq,NDAQ,11188.84,Investment Bankers/Brokers/Service,Finance
+3/14/2023,Nasdaq,NDAQ,11428.15,Investment Bankers/Brokers/Service,Finance
+3/15/2023,Nasdaq,NDAQ,11434.05,Investment Bankers/Brokers/Service,Finance
+3/16/2023,Nasdaq,NDAQ,11717.28,Investment Bankers/Brokers/Service,Finance
+3/17/2023,Nasdaq,NDAQ,11630.51,Investment Bankers/Brokers/Service,Finance
+3/20/2023,Nasdaq,NDAQ,11675.54,Investment Bankers/Brokers/Service,Finance
+3/21/2023,Nasdaq,NDAQ,11860.11,Investment Bankers/Brokers/Service,Finance
+3/22/2023,Nasdaq,NDAQ,11669.96,Investment Bankers/Brokers/Service,Finance
+3/23/2023,Nasdaq,NDAQ,11787.4,Investment Bankers/Brokers/Service,Finance
+3/24/2023,Nasdaq,NDAQ,11823.96,Investment Bankers/Brokers/Service,Finance
+3/27/2023,Nasdaq,NDAQ,11768.84,Investment Bankers/Brokers/Service,Finance
+3/28/2023,Nasdaq,NDAQ,11716.08,Investment Bankers/Brokers/Service,Finance
+3/29/2023,Nasdaq,NDAQ,11926.24,Investment Bankers/Brokers/Service,Finance
+3/30/2023,Nasdaq,NDAQ,12013.47,Investment Bankers/Brokers/Service,Finance
+3/31/2023,Nasdaq,NDAQ,12221.91,Investment Bankers/Brokers/Service,Finance
+4/3/2023,Nasdaq,NDAQ,12189.45,Investment Bankers/Brokers/Service,Finance
+4/4/2023,Nasdaq,NDAQ,12126.33,Investment Bankers/Brokers/Service,Finance
+4/5/2023,Nasdaq,NDAQ,11996.86,Investment Bankers/Brokers/Service,Finance
+4/6/2023,Nasdaq,NDAQ,12087.96,Investment Bankers/Brokers/Service,Finance
+4/10/2023,Nasdaq,NDAQ,12084.36,Investment Bankers/Brokers/Service,Finance
+4/11/2023,Nasdaq,NDAQ,12031.88,Investment Bankers/Brokers/Service,Finance
+4/12/2023,Nasdaq,NDAQ,11929.34,Investment Bankers/Brokers/Service,Finance
+4/13/2023,Nasdaq,NDAQ,12166.27,Investment Bankers/Brokers/Service,Finance
+4/14/2023,Nasdaq,NDAQ,12123.47,Investment Bankers/Brokers/Service,Finance
+4/17/2023,Nasdaq,NDAQ,12157.72,Investment Bankers/Brokers/Service,Finance
+4/18/2023,Nasdaq,NDAQ,12153.41,Investment Bankers/Brokers/Service,Finance
+4/19/2023,Nasdaq,NDAQ,12157.23,Investment Bankers/Brokers/Service,Finance
+4/20/2023,Nasdaq,NDAQ,12059.56,Investment Bankers/Brokers/Service,Finance
+4/21/2023,Nasdaq,NDAQ,12072.46,Investment Bankers/Brokers/Service,Finance
+4/24/2023,Nasdaq,NDAQ,12037.2,Investment Bankers/Brokers/Service,Finance
+4/25/2023,Nasdaq,NDAQ,11799.16,Investment Bankers/Brokers/Service,Finance
+4/26/2023,Nasdaq,NDAQ,11854.35,Investment Bankers/Brokers/Service,Finance
+4/27/2023,Nasdaq,NDAQ,12142.24,Investment Bankers/Brokers/Service,Finance
+4/28/2023,Nasdaq,NDAQ,12226.58,Investment Bankers/Brokers/Service,Finance
+5/1/2023,Nasdaq,NDAQ,12212.6,Investment Bankers/Brokers/Service,Finance
+5/2/2023,Nasdaq,NDAQ,12080.51,Investment Bankers/Brokers/Service,Finance
+5/3/2023,Nasdaq,NDAQ,12025.33,Investment Bankers/Brokers/Service,Finance
+5/4/2023,Nasdaq,NDAQ,11966.4,Investment Bankers/Brokers/Service,Finance
+5/5/2023,Nasdaq,NDAQ,12235.41,Investment Bankers/Brokers/Service,Finance
+5/8/2023,Nasdaq,NDAQ,12256.92,Investment Bankers/Brokers/Service,Finance
+5/9/2023,Nasdaq,NDAQ,12179.55,Investment Bankers/Brokers/Service,Finance
+5/10/2023,Nasdaq,NDAQ,12306.44,Investment Bankers/Brokers/Service,Finance
+5/11/2023,Nasdaq,NDAQ,12328.51,Investment Bankers/Brokers/Service,Finance
+5/12/2023,Nasdaq,NDAQ,12284.74,Investment Bankers/Brokers/Service,Finance
+5/15/2023,Nasdaq,NDAQ,12365.21,Investment Bankers/Brokers/Service,Finance
+5/16/2023,Nasdaq,NDAQ,12343.05,Investment Bankers/Brokers/Service,Finance
+5/17/2023,Nasdaq,NDAQ,12500.57,Investment Bankers/Brokers/Service,Finance
+5/18/2023,Nasdaq,NDAQ,12688.84,Investment Bankers/Brokers/Service,Finance
+5/19/2023,Nasdaq,NDAQ,12657.9,Investment Bankers/Brokers/Service,Finance
+5/22/2023,Nasdaq,NDAQ,12720.78,Investment Bankers/Brokers/Service,Finance
+5/23/2023,Nasdaq,NDAQ,12560.25,Investment Bankers/Brokers/Service,Finance
+5/24/2023,Nasdaq,NDAQ,12484.16,Investment Bankers/Brokers/Service,Finance
+5/25/2023,Nasdaq,NDAQ,12698.09,Investment Bankers/Brokers/Service,Finance
+5/26/2023,Nasdaq,NDAQ,12975.69,Investment Bankers/Brokers/Service,Finance
+5/30/2023,Nasdaq,NDAQ,13017.43,Investment Bankers/Brokers/Service,Finance
+5/31/2023,Nasdaq,NDAQ,12935.29,Investment Bankers/Brokers/Service,Finance
+6/1/2023,Nasdaq,NDAQ,13100.98,Investment Bankers/Brokers/Service,Finance
+6/2/2023,Nasdaq,NDAQ,13240.77,Investment Bankers/Brokers/Service,Finance
+6/5/2023,Nasdaq,NDAQ,13229.43,Investment Bankers/Brokers/Service,Finance
+6/6/2023,Nasdaq,NDAQ,13276.42,Investment Bankers/Brokers/Service,Finance
+6/7/2023,Nasdaq,NDAQ,13104.9,Investment Bankers/Brokers/Service,Finance
+6/8/2023,Nasdaq,NDAQ,13238.52,Investment Bankers/Brokers/Service,Finance
+6/9/2023,Nasdaq,NDAQ,13259.14,Investment Bankers/Brokers/Service,Finance
+6/12/2023,Nasdaq,NDAQ,13461.92,Investment Bankers/Brokers/Service,Finance
+6/13/2023,Nasdaq,NDAQ,13573.32,Investment Bankers/Brokers/Service,Finance
+6/14/2023,Nasdaq,NDAQ,13626.48,Investment Bankers/Brokers/Service,Finance
+6/15/2023,Nasdaq,NDAQ,13782.82,Investment Bankers/Brokers/Service,Finance
+6/16/2023,Nasdaq,NDAQ,13689.57,Investment Bankers/Brokers/Service,Finance
+6/20/2023,Nasdaq,NDAQ,13667.29,Investment Bankers/Brokers/Service,Finance
+6/21/2023,Nasdaq,NDAQ,13502.2,Investment Bankers/Brokers/Service,Finance
+6/22/2023,Nasdaq,NDAQ,13630.61,Investment Bankers/Brokers/Service,Finance
+6/23/2023,Nasdaq,NDAQ,13492.52,Investment Bankers/Brokers/Service,Finance
+6/26/2023,Nasdaq,NDAQ,13335.78,Investment Bankers/Brokers/Service,Finance
+6/27/2023,Nasdaq,NDAQ,13555.67,Investment Bankers/Brokers/Service,Finance
+6/28/2023,Nasdaq,NDAQ,13591.75,Investment Bankers/Brokers/Service,Finance
+6/29/2023,Nasdaq,NDAQ,13591.33,Investment Bankers/Brokers/Service,Finance
+6/30/2023,Nasdaq,NDAQ,13787.92,Investment Bankers/Brokers/Service,Finance
+7/3/2023,Nasdaq,NDAQ,13816.77,Investment Bankers/Brokers/Service,Finance
+7/5/2023,Nasdaq,NDAQ,13791.65,Investment Bankers/Brokers/Service,Finance
+7/6/2023,Nasdaq,NDAQ,13679.04,Investment Bankers/Brokers/Service,Finance
+7/7/2023,Nasdaq,NDAQ,13660.72,Investment Bankers/Brokers/Service,Finance
+7/10/2023,Nasdaq,NDAQ,13685.48,Investment Bankers/Brokers/Service,Finance
+7/11/2023,Nasdaq,NDAQ,13760.7,Investment Bankers/Brokers/Service,Finance
+7/12/2023,Nasdaq,NDAQ,13918.96,Investment Bankers/Brokers/Service,Finance
+7/13/2023,Nasdaq,NDAQ,14138.57,Investment Bankers/Brokers/Service,Finance
+7/14/2023,Nasdaq,NDAQ,14113.7,Investment Bankers/Brokers/Service,Finance
+7/17/2023,Nasdaq,NDAQ,14244.95,Investment Bankers/Brokers/Service,Finance
+7/18/2023,Nasdaq,NDAQ,14353.64,Investment Bankers/Brokers/Service,Finance
+7/19/2023,Nasdaq,NDAQ,14358.02,Investment Bankers/Brokers/Service,Finance
+7/20/2023,Nasdaq,NDAQ,14063.31,Investment Bankers/Brokers/Service,Finance
+7/21/2023,Nasdaq,NDAQ,14032.81,Investment Bankers/Brokers/Service,Finance
+7/24/2023,Nasdaq,NDAQ,14058.87,Investment Bankers/Brokers/Service,Finance
+7/25/2023,Nasdaq,NDAQ,14144.56,Investment Bankers/Brokers/Service,Finance
+7/26/2023,Nasdaq,NDAQ,14127.28,Investment Bankers/Brokers/Service,Finance
+7/27/2023,Nasdaq,NDAQ,14050.11,Investment Bankers/Brokers/Service,Finance
+7/28/2023,Nasdaq,NDAQ,14316.66,Investment Bankers/Brokers/Service,Finance
+7/31/2023,Nasdaq,NDAQ,14346.02,Investment Bankers/Brokers/Service,Finance
