@@ -4,7 +4,10 @@ import numpy as np
 from pathlib import Path
 
 #Grabing the raw stock data and putting in dataframe
-raw_stocks_data_to_load =  Path("../Data/Stock_Index_Raw_Data.csv")
+
+#this line commented out needed for notes sample file
+# raw_stocks_data_to_load =  Path("../Data/Stock_Index_Raw_Data.csv")
+raw_stocks_data_to_load =  Path("Resources/Data/Stock_Index_Raw_Data.csv")
 raw_stocks_data_df = pd.read_csv(raw_stocks_data_to_load, header=0, parse_dates=True)
 raw_stocks_data_df.sort_index(ascending = True, inplace = True)
 # raw_stocks_data_df.head()
