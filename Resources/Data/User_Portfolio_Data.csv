@@ -1,6 +1,7 @@
 UUID,User_Name,Sharpe_Ratio,Stocks
 c8b71fc0-a969-4bbb-80f0-8caeedd3cc6a,Test1,4.5445,"['AVGO', 'AAPL', 'MSFT', 'V', 'NVDA']"
 951bb78a-dacb-4047-a255-2eb50314a9fd,Amy,4.4343,"['V', 'GOOGL', 'JNJ', 'MSFT', 'XOM']"
+9911f3d6-2a1e-4956-b676-d14ddd12fe0e,alex_1,3.4124308359758553,"['NVDA', 'AMZN', 'AAPL', 'MSFT']"
 56a3ba9e-7b6d-4376-a6d8-ffd2f42cee9d,Chris ,3.11234,"['AVGO', 'AAPL', 'MSFT', 'XOM']"
 951bb78a-dacb-4047-a255-2eb50314a9fd,Amy,3.11234,"['V', 'GOOGL', 'JNJ', 'MSFT', 'XOM']"
 2526a1f9-0f46-4b73-a0aa-ac9f5920e3d9,JJ,2.11,"['AMZN', 'AAPL', 'MSFT', 'JPM']"
