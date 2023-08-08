@@ -1,8 +1,6 @@
 UUID,User_Name,Sharpe_Ratio,Stocks
-c8b71fc0-a969-4bbb-80f0-8caeedd3cc6a,Test1,4.5445,"['AVGO', 'AAPL', 'MSFT', 'V', 'NVDA']"
-951bb78a-dacb-4047-a255-2eb50314a9fd,Amy,4.4343,"['V', 'GOOGL', 'JNJ', 'MSFT', 'XOM']"
-9911f3d6-2a1e-4956-b676-d14ddd12fe0e,alex_1,3.4124308359758553,"['NVDA', 'AMZN', 'AAPL', 'MSFT']"
-56a3ba9e-7b6d-4376-a6d8-ffd2f42cee9d,Chris ,3.11234,"['AVGO', 'AAPL', 'MSFT', 'XOM']"
-951bb78a-dacb-4047-a255-2eb50314a9fd,Amy,3.11234,"['V', 'GOOGL', 'JNJ', 'MSFT', 'XOM']"
-2526a1f9-0f46-4b73-a0aa-ac9f5920e3d9,JJ,2.11,"['AMZN', 'AAPL', 'MSFT', 'JPM']"
-56a3ba9e-7b6d-4376-a6d8-ffd2f42cee9d,Chris ,1.11234,"['AVGO', 'AAPL', 'MSFT', 'XOM']"
+85c7d8c0-c991-4824-8f4d-37535e5851bc,John ,3.540896772,"['AAPL', 'AVGO', 'UNH', 'NVDA', 'V']"
+9911f3d6-2a1e-4956-b676-d14ddd12fe0e,alex_1,3.412430836,"['NVDA', 'AMZN', 'AAPL', 'MSFT']"
+866a252f-1fe7-4a3c-859f-ea1eb81f9348,Amy ,3.296707268095421,"['BRK.B', 'AAPL', 'XOM', 'MSFT', 'META']"
+0331b7dd-f698-405a-912d-a6dd5c153436,Alissa,3.261230606715138,"['NVDA', 'AAPL', 'XOM', 'MSFT', 'UNH', 'AMZN']"
+efc9e655-1165-4c90-be37-d2d8f6cc2fdb,Edward,2.34823725,"['GOOGL', 'MSFT']"
