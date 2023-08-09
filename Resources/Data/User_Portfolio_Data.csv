@@ -1,4 +1,5 @@
 UUID,User_Name,Sharpe_Ratio,Stocks
+5373ed8f-537d-40b6-98d0-7b3b55281021,Jose,3.631940425190049,"['META', 'AMZN', 'AVGO', 'GOOGL', 'BRK.B', 'AAPL', 'NVDA', 'XOM', 'JPM', 'MSFT']"
 85c7d8c0-c991-4824-8f4d-37535e5851bc,John ,3.540896772,"['AAPL', 'AVGO', 'UNH', 'NVDA', 'V']"
 9911f3d6-2a1e-4956-b676-d14ddd12fe0e,alex_1,3.412430836,"['NVDA', 'AMZN', 'AAPL', 'MSFT']"
 bc01be19-a9c1-420f-837d-00e2cc6ede4a,Gaby,3.39618263976037,"['AVGO', 'TSLA', 'NVDA']"
